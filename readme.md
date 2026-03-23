@@ -247,3 +247,35 @@ The assumptions and gaps
 is essential before making any contribution.
 
 This approach ensures that work is extended thoughtfully rather than modified blindly.
+
+✅ Verification of Data Science Environment
+
+Operating System: Windows
+
+Python Version:
+
+Python 3.14.3
+
+Conda Version:
+
+conda 26.1.1
+
+Environment Used:
+
+base
+🔹 Python Verification
+Verified Python runs using python --version
+Opened Python REPL and executed:
+print("Working")
+🔹 Conda Verification
+Verified Conda using conda --version
+Listed environments using conda env list
+Activated base environment successfully
+🔹 Jupyter Verification
+Launched Jupyter Notebook using:
+jupyter notebook
+Opened notebook and executed:
+print("Jupyter Working")
+✅ Conclusion
+
+The environment is fully functional and ready for Data Science workflows.

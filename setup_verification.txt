@@ -1,0 +1,22 @@
+Python Installation Verification
+
+Command:
+python --version
+Output:
+Python 3.14.3
+
+Conda Installation Verification
+
+Command:
+conda --version
+Output:
+conda 26.1.1
+
+Python Test
+
+Command:
+python
+>>> print("Setup Working")
+
+Output:
+Setup Working

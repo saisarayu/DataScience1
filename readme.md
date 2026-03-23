@@ -1,4 +1,4 @@
-📊 Data Science Lifecycle: Question → Data → Insight
+Data Science Lifecycle: Question → Data → Insight
 1. Explaining the Lifecycle
 
 Data science does not start with data or tools. It starts with a clear question. The entire process flows from Question → Data → Insight, and each step depends on the previous one.

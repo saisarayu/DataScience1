@@ -33,7 +33,7 @@ student = {
 print("Dictionary:", student)
 
 # Access value
-print("Name:", student["name"])
+print("Name :", student["name"])
 
 # Modify dictionary
 student["age"] = 21

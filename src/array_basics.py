@@ -21,5 +21,5 @@ print("Shape:", arr2.shape)
 print("Dimensions:", arr2.ndim)
 
 # Access elements
-print("Element at (0,1):", arr2[0,1])
+print("Element at (0,1):" , arr2[0,1])
 print("Element at (1,2):", arr2[1,2])

@@ -1,0 +1,353 @@
+complaint_id,filed_on,resolved_on,ward,category,description,status,channel,priority,citizen_age,satisfaction_score,resolution_days,filed_year,filed_month,filed_month_name,filed_week,filed_weekday,filed_date,is_open,verified_category,recency_score,days_open
+GRV-1147,2024-10-01,,Ward-19,Water Supply,No water supply for 3 days,Open,WhatsApp,Critical,57,,,2024,10,Oct 2024,40,Tuesday,2024-10-01,True,Water Supply,0.0,546.0
+GRV-2779,2024-10-01,,Ward-13,Street Lighting,Frequent power fluctuation in area,In Progress,Mobile App,High,52,,,2024,10,Oct 2024,40,Tuesday,2024-10-01,True,Street Lighting,0.0,546.0
+GRV-2430,2024-10-04,,Ward-02,Water Supply,Low water pressure in pipes,In Progress,Walk-In,Critical,43,,,2024,10,Oct 2024,40,Friday,2024-10-04,True,Water Supply,0.5494505494505475,543.0
+GRV-1093,2024-10-05,,Ward-18,Road & Infrastructure,Road completely waterlogged after rain,Open,Phone Call,High,18,,,2024,10,Oct 2024,40,Saturday,2024-10-05,True,Water Supply,0.73260073260073,542.0
+GRV-1114,2024-10-07,,Ward-12,Noise & Pollution,Loud music from nearby event venue,Open,Website,High,60,,,2024,10,Oct 2024,41,Monday,2024-10-07,True,Other,1.098901098901095,540.0
+GRV-1237,2024-10-09,,Ward-10,Sewage & Drainage,Sewage overflowing onto road,Open,Walk-In,High,49,,,2024,10,Oct 2024,41,Wednesday,2024-10-09,True,Road & Infrastructure,1.46520146520146,538.0
+GRV-1935,2024-10-11,,Ward-08,Road & Infrastructure,Large pothole causing accidents on highway,Open,Walk-In,High,40,,,2024,10,Oct 2024,41,Friday,2024-10-11,True,Road & Infrastructure,1.831501831501836,536.0
+GRV-2459,2024-10-12,,Ward-01,Street Lighting,Broken street light reported multiple times,In Progress,Website,Critical,67,,,2024,10,Oct 2024,41,Saturday,2024-10-12,True,Street Lighting,2.0146520146520186,535.0
+GRV-2118,2024-10-15,,Ward-01,Noise & Pollution,Construction noise beyond permitted hours,In Progress,Website,Critical,69,,,2024,10,Oct 2024,42,Tuesday,2024-10-15,True,Road & Infrastructure,2.564102564102566,532.0
+GRV-1140,2024-10-15,,Ward-10,Street Lighting,Electric pole fallen on road – dangerous,Open,Phone Call,High,64,,,2024,10,Oct 2024,42,Tuesday,2024-10-15,True,Road & Infrastructure,2.564102564102566,532.0
+GRV-1171,2024-10-17,,Ward-13,Noise & Pollution,Burning of garbage creating air pollution,Open,Mobile App,High,29,,,2024,10,Oct 2024,42,Thursday,2024-10-17,True,Waste Management,2.930402930402931,530.0
+GRV-2488,2024-10-18,,Ward-01,Water Supply,No water supply for 3 days,In Progress,WhatsApp,High,43,,,2024,10,Oct 2024,42,Friday,2024-10-18,True,Water Supply,3.1135531135531136,529.0
+GRV-2010,2024-10-21,,Ward-13,Water Supply,Dirty/contaminated water coming from tap,Open,Mobile App,High,46,,,2024,10,Oct 2024,43,Monday,2024-10-21,True,Water Supply,3.663003663003661,526.0
+GRV-2344,2024-10-23,,Ward-01,Sewage & Drainage,Blocked drain causing flooding in colony,In Progress,WhatsApp,High,60,,,2024,10,Oct 2024,43,Wednesday,2024-10-23,True,Sewage & Drainage,4.029304029304026,524.0
+GRV-2211,2024-10-24,,Ward-02,Street Lighting,Electric pole fallen on road – dangerous,In Progress,Phone Call,High,33,,,2024,10,Oct 2024,43,Thursday,2024-10-24,True,Road & Infrastructure,4.212454212454208,523.0
+GRV-1820,2024-10-25,,Ward-09,Street Lighting,Broken street light reported multiple times,In Progress,Website,High,18,,,2024,10,Oct 2024,43,Friday,2024-10-25,True,Street Lighting,4.395604395604391,522.0
+GRV-1499,2024-10-26,,Ward-15,Waste Management,Garbage truck does not come on schedule,Open,WhatsApp,High,36,,,2024,10,Oct 2024,43,Saturday,2024-10-26,True,Waste Management,4.578754578754573,521.0
+GRV-2016,2024-10-26,,Ward-16,Sewage & Drainage,Sewage mixing with drinking water pipeline,In Progress,Website,High,46,,,2024,10,Oct 2024,43,Saturday,2024-10-26,True,Water Supply,4.578754578754573,521.0
+GRV-2609,2024-10-28,,Ward-11,Sewage & Drainage,Sewage mixing with drinking water pipeline,In Progress,Walk-In,High,52,,,2024,10,Oct 2024,44,Monday,2024-10-28,True,Water Supply,4.94505494505495,519.0
+GRV-1553,2024-10-29,,Ward-08,Public Property,Stray dogs attacking residents near park,Open,Website,Critical,58,,,2024,10,Oct 2024,44,Tuesday,2024-10-29,True,Public Property,5.128205128205132,518.0
+GRV-2912,2024-10-30,,Ward-18,Water Supply,No water supply for 3 days,Open,Mobile App,High,55,,,2024,10,Oct 2024,44,Wednesday,2024-10-30,True,Water Supply,5.311355311355315,517.0
+GRV-1211,2024-10-31,,Ward-20,Street Lighting,Broken street light reported multiple times,Open,Mobile App,High,60,,,2024,10,Oct 2024,44,Thursday,2024-10-31,True,Street Lighting,5.494505494505497,516.0
+GRV-1407,2024-11-04,,Ward-12,Street Lighting,Broken street light reported multiple times,In Progress,Website,High,38,,,2024,11,Nov 2024,45,Monday,2024-11-04,True,Street Lighting,6.227106227106227,512.0
+GRV-2891,2024-11-05,,Ward-16,Road & Infrastructure,Road completely waterlogged after rain,Open,Phone Call,Critical,40,,,2024,11,Nov 2024,45,Tuesday,2024-11-05,True,Water Supply,6.41025641025641,511.0
+GRV-2815,2024-11-06,,Ward-08,Road & Infrastructure,Road construction debris not cleared,In Progress,Website,Critical,36,,,2024,11,Nov 2024,45,Wednesday,2024-11-06,True,Road & Infrastructure,6.593406593406592,510.0
+GRV-2322,2024-11-07,,Ward-17,Sewage & Drainage,Sewage overflowing onto road,Open,Website,High,45,,,2024,11,Nov 2024,45,Thursday,2024-11-07,True,Road & Infrastructure,6.776556776556775,509.0
+GRV-2893,2024-11-07,,Ward-14,Public Property,Park benches broken and vandalised,Open,Website,High,56,,,2024,11,Nov 2024,45,Thursday,2024-11-07,True,Public Property,6.776556776556775,509.0
+GRV-1014,2024-11-10,,Ward-03,Water Supply,Dirty/contaminated water coming from tap,In Progress,Walk-In,Critical,29,,,2024,11,Nov 2024,45,Sunday,2024-11-10,True,Water Supply,7.326007326007322,506.0
+GRV-2919,2024-11-10,,Ward-19,Water Supply,Dirty/contaminated water coming from tap,Open,Mobile App,Critical,32,,,2024,11,Nov 2024,45,Sunday,2024-11-10,True,Water Supply,7.326007326007322,506.0
+GRV-1180,2024-11-11,,Ward-15,Public Property,Encroachment on footpath by shop owners,Open,Phone Call,Critical,67,,,2024,11,Nov 2024,46,Monday,2024-11-11,True,Road & Infrastructure,7.509157509157505,505.0
+GRV-2304,2024-11-13,,Ward-20,Road & Infrastructure,Broken footpath causing injury to pedestrians,Open,Mobile App,High,21,,,2024,11,Nov 2024,46,Wednesday,2024-11-13,True,Road & Infrastructure,7.875457875457881,503.0
+GRV-1213,2024-11-15,,Ward-04,Noise & Pollution,Loud music from nearby event venue,In Progress,Website,High,57,,,2024,11,Nov 2024,46,Friday,2024-11-15,True,Other,8.241758241758246,501.0
+GRV-1394,2024-11-16,,Ward-13,Noise & Pollution,Loud music from nearby event venue,In Progress,Website,High,18,,,2024,11,Nov 2024,46,Saturday,2024-11-16,True,Other,8.424908424908429,500.0
+GRV-1712,2024-11-16,,Ward-04,Noise & Pollution,Loud music from nearby event venue,In Progress,Website,High,42,,,2024,11,Nov 2024,46,Saturday,2024-11-16,True,Other,8.424908424908429,500.0
+GRV-2981,2024-11-19,,Ward-14,Sewage & Drainage,Foul smell from open drainage channel,Open,Phone Call,High,19,,,2024,11,Nov 2024,47,Tuesday,2024-11-19,True,Sewage & Drainage,8.974358974358976,497.0
+GRV-1360,2024-11-19,,Ward-12,Public Property,Stray dogs attacking residents near park,Open,WhatsApp,Critical,47,,,2024,11,Nov 2024,47,Tuesday,2024-11-19,True,Public Property,8.974358974358976,497.0
+GRV-2290,2024-11-22,,Ward-01,Waste Management,Garbage not collected for a week,Open,Walk-In,High,71,,,2024,11,Nov 2024,47,Friday,2024-11-22,True,Waste Management,9.523809523809524,494.0
+GRV-2972,2024-11-27,,Ward-05,Public Property,Public toilet locked / not accessible,In Progress,WhatsApp,Critical,24,,,2024,11,Nov 2024,48,Wednesday,2024-11-27,True,Public Property,10.439560439560436,489.0
+GRV-1055,2024-11-27,,Ward-18,Noise & Pollution,Dust from road construction affecting residents,Open,Phone Call,Critical,49,,,2024,11,Nov 2024,48,Wednesday,2024-11-27,True,Road & Infrastructure,10.439560439560436,489.0
+GRV-2810,2024-11-28,,Ward-14,Water Supply,No water supply for 3 days,In Progress,Walk-In,High,54,,,2024,11,Nov 2024,48,Thursday,2024-11-28,True,Water Supply,10.622710622710619,488.0
+GRV-1629,2024-12-03,,Ward-14,Waste Management,Garbage not collected for a week,In Progress,Walk-In,Critical,57,,,2024,12,Dec 2024,49,Tuesday,2024-12-03,True,Waste Management,11.538461538461542,483.0
+GRV-1645,2024-12-04,,Ward-07,Sewage & Drainage,Sewage mixing with drinking water pipeline,Open,Walk-In,High,74,,,2024,12,Dec 2024,49,Wednesday,2024-12-04,True,Water Supply,11.721611721611724,482.0
+GRV-1998,2024-12-05,,Ward-02,Waste Management,No waste bins available in the area,In Progress,Walk-In,Critical,37,,,2024,12,Dec 2024,49,Thursday,2024-12-05,True,Waste Management,11.904761904761907,481.0
+GRV-1293,2024-12-06,,Ward-07,Water Supply,Water pipeline leakage on main road,Open,Mobile App,High,20,,,2024,12,Dec 2024,49,Friday,2024-12-06,True,Water Supply,12.08791208791209,480.0
+GRV-1946,2024-12-08,,Ward-13,Waste Management,Overflowing dustbin near bus stop,Open,Website,High,49,,,2024,12,Dec 2024,49,Sunday,2024-12-08,True,Waste Management,12.454212454212454,478.0
+GRV-2904,2024-12-08,,Ward-18,Sewage & Drainage,Foul smell from open drainage channel,Open,Walk-In,Critical,25,,,2024,12,Dec 2024,49,Sunday,2024-12-08,True,Sewage & Drainage,12.454212454212454,478.0
+GRV-1683,2024-12-09,,Ward-04,Water Supply,Water meter not working properly,In Progress,Phone Call,High,46,,,2024,12,Dec 2024,50,Monday,2024-12-09,True,Water Supply,12.637362637362637,477.0
+GRV-1110,2024-12-12,,Ward-13,Water Supply,Dirty/contaminated water coming from tap,In Progress,Website,Critical,46,,,2024,12,Dec 2024,50,Thursday,2024-12-12,True,Water Supply,13.186813186813184,474.0
+GRV-2767,2024-12-14,,Ward-02,Road & Infrastructure,Road completely waterlogged after rain,Open,Walk-In,Critical,54,,,2024,12,Dec 2024,50,Saturday,2024-12-14,True,Water Supply,13.55311355311355,472.0
+GRV-1113,2024-12-17,,Ward-11,Street Lighting,Electric pole fallen on road – dangerous,Open,Mobile App,High,31,,,2024,12,Dec 2024,51,Tuesday,2024-12-17,True,Road & Infrastructure,14.102564102564108,469.0
+GRV-2804,2024-12-19,,Ward-12,Waste Management,Garbage not collected for a week,Open,Phone Call,High,34,,,2024,12,Dec 2024,51,Thursday,2024-12-19,True,Waste Management,14.468864468864473,467.0
+GRV-2706,2024-12-20,,Ward-17,Waste Management,Illegal dumping of waste on street,Open,Unknown,High,47,,,2024,12,Dec 2024,51,Friday,2024-12-20,True,Waste Management,14.652014652014655,466.0
+GRV-2222,2024-12-21,,Ward-18,Waste Management,Garbage truck does not come on schedule,Open,Phone Call,High,73,,,2024,12,Dec 2024,51,Saturday,2024-12-21,True,Waste Management,14.835164835164838,465.0
+GRV-1555,2024-12-21,,Ward-17,Public Property,Park benches broken and vandalised,Open,Mobile App,Critical,44,,,2024,12,Dec 2024,51,Saturday,2024-12-21,True,Public Property,14.835164835164838,465.0
+GRV-1977,2024-12-21,,Ward-05,Water Supply,Low water pressure in pipes,Open,Mobile App,High,51,,,2024,12,Dec 2024,51,Saturday,2024-12-21,True,Water Supply,14.835164835164838,465.0
+GRV-1642,2024-12-25,,Ward-07,Sewage & Drainage,Sewage overflowing onto road,Open,Website,High,55,,,2024,12,Dec 2024,52,Wednesday,2024-12-25,True,Road & Infrastructure,15.567765567765568,461.0
+GRV-2444,2025-01-03,,Ward-01,Water Supply,Water meter not working properly,Open,Phone Call,High,24,,,2025,1,Jan 2025,1,Friday,2025-01-03,True,Water Supply,17.216117216117222,452.0
+GRV-1161,2025-01-04,,Ward-20,Waste Management,No waste bins available in the area,Open,WhatsApp,High,63,,,2025,1,Jan 2025,1,Saturday,2025-01-04,True,Waste Management,17.399267399267405,451.0
+GRV-1018,2025-01-04,,Ward-03,Waste Management,Overflowing dustbin near bus stop,In Progress,Mobile App,High,56,,,2025,1,Jan 2025,1,Saturday,2025-01-04,True,Waste Management,17.399267399267405,451.0
+GRV-1325,2025-01-05,,Ward-19,Sewage & Drainage,Sewage mixing with drinking water pipeline,Open,Mobile App,High,57,,,2025,1,Jan 2025,1,Sunday,2025-01-05,True,Water Supply,17.582417582417587,450.0
+GRV-1036,2025-01-07,,Ward-14,Water Supply,Water pipeline leakage on main road,In Progress,Website,High,63,,,2025,1,Jan 2025,2,Tuesday,2025-01-07,True,Water Supply,17.948717948717952,448.0
+GRV-1015,2025-01-07,,Ward-16,Sewage & Drainage,Foul smell from open drainage channel,Open,Website,High,52,,,2025,1,Jan 2025,2,Tuesday,2025-01-07,True,Sewage & Drainage,17.948717948717952,448.0
+GRV-1046,2025-01-12,,Ward-17,Sewage & Drainage,Blocked drain causing flooding in colony,Open,Mobile App,High,65,,,2025,1,Jan 2025,2,Sunday,2025-01-12,True,Sewage & Drainage,18.864468864468865,443.0
+GRV-2561,2025-01-13,,Ward-15,Water Supply,No water supply for 3 days,Open,Phone Call,High,58,,,2025,1,Jan 2025,3,Monday,2025-01-13,True,Water Supply,19.047619047619047,442.0
+GRV-2700,2025-01-14,,Ward-04,Noise & Pollution,Factory emitting foul-smelling smoke,Open,Website,Critical,57,,,2025,1,Jan 2025,3,Tuesday,2025-01-14,True,Noise & Pollution,19.23076923076923,441.0
+GRV-2216,2025-01-14,,Ward-09,Sewage & Drainage,Manhole cover missing – safety hazard,In Progress,Website,Critical,46,,,2025,1,Jan 2025,3,Tuesday,2025-01-14,True,Sewage & Drainage,19.23076923076923,441.0
+GRV-2640,2025-01-14,,Ward-12,Noise & Pollution,Burning of garbage creating air pollution,Open,Mobile App,Critical,34,,,2025,1,Jan 2025,3,Tuesday,2025-01-14,True,Waste Management,19.23076923076923,441.0
+GRV-2860,2025-01-15,,Ward-11,Street Lighting,Frequent power fluctuation in area,In Progress,Mobile App,High,48,,,2025,1,Jan 2025,3,Wednesday,2025-01-15,True,Street Lighting,19.413919413919412,440.0
+GRV-1421,2025-01-17,,Ward-19,Road & Infrastructure,Broken footpath causing injury to pedestrians,In Progress,Walk-In,High,62,,,2025,1,Jan 2025,3,Friday,2025-01-17,True,Road & Infrastructure,19.780219780219777,438.0
+GRV-2898,2025-01-17,,Ward-05,Water Supply,Water meter not working properly,In Progress,Walk-In,High,27,,,2025,1,Jan 2025,3,Friday,2025-01-17,True,Water Supply,19.780219780219777,438.0
+GRV-1690,2025-01-19,,Ward-07,Water Supply,Water pipeline leakage on main road,Open,Phone Call,High,59,,,2025,1,Jan 2025,3,Sunday,2025-01-19,True,Water Supply,20.146520146520142,436.0
+GRV-2969,2025-01-21,,Ward-19,Road & Infrastructure,Broken footpath causing injury to pedestrians,Open,WhatsApp,High,36,,,2025,1,Jan 2025,4,Tuesday,2025-01-21,True,Road & Infrastructure,20.512820512820518,434.0
+GRV-2361,2025-01-21,,Ward-05,Noise & Pollution,Loud music from nearby event venue,Open,Phone Call,High,69,,,2025,1,Jan 2025,4,Tuesday,2025-01-21,True,Other,20.512820512820518,434.0
+GRV-2365,2025-01-23,,Ward-15,Noise & Pollution,Dust from road construction affecting residents,Open,Walk-In,High,33,,,2025,1,Jan 2025,4,Thursday,2025-01-23,True,Road & Infrastructure,20.879120879120883,432.0
+GRV-2335,2025-01-23,,Ward-05,Road & Infrastructure,Large pothole causing accidents on highway,Open,Website,High,52,,,2025,1,Jan 2025,4,Thursday,2025-01-23,True,Road & Infrastructure,20.879120879120883,432.0
+GRV-2029,2025-01-25,,Ward-18,Waste Management,Garbage truck does not come on schedule,Open,Phone Call,High,64,,,2025,1,Jan 2025,4,Saturday,2025-01-25,True,Waste Management,21.245421245421248,430.0
+GRV-2128,2025-01-26,,Ward-18,Noise & Pollution,Dust from road construction affecting residents,In Progress,Walk-In,High,44,,,2025,1,Jan 2025,4,Sunday,2025-01-26,True,Road & Infrastructure,21.42857142857143,429.0
+GRV-2842,2025-01-28,,Ward-02,Sewage & Drainage,Manhole cover missing – safety hazard,Open,WhatsApp,Critical,35,,,2025,1,Jan 2025,5,Tuesday,2025-01-28,True,Sewage & Drainage,21.794871794871796,427.0
+GRV-1577,2025-01-29,,Ward-03,Noise & Pollution,Construction noise beyond permitted hours,Open,Walk-In,Critical,65,,,2025,1,Jan 2025,5,Wednesday,2025-01-29,True,Road & Infrastructure,21.978021978021978,426.0
+GRV-1510,2025-02-02,,Ward-11,Waste Management,Overflowing dustbin near bus stop,Open,Walk-In,High,70,,,2025,2,Feb 2025,5,Sunday,2025-02-02,True,Waste Management,22.710622710622708,422.0
+GRV-2201,2025-02-02,,Ward-03,Noise & Pollution,Burning of garbage creating air pollution,Open,WhatsApp,High,41,,,2025,2,Feb 2025,5,Sunday,2025-02-02,True,Waste Management,22.710622710622708,422.0
+GRV-2457,2025-02-02,,Ward-17,Street Lighting,Short circuit sparks from street light,Open,Walk-In,High,61,,,2025,2,Feb 2025,5,Sunday,2025-02-02,True,Street Lighting,22.710622710622708,422.0
+GRV-1837,2025-02-03,,Ward-04,Water Supply,Water meter not working properly,Open,WhatsApp,Critical,41,,,2025,2,Feb 2025,6,Monday,2025-02-03,True,Water Supply,22.89377289377289,421.0
+GRV-1612,2025-02-06,,Ward-20,Sewage & Drainage,Sewage overflowing onto road,Open,Website,High,38,,,2025,2,Feb 2025,6,Thursday,2025-02-06,True,Road & Infrastructure,23.44322344322345,418.0
+GRV-1390,2025-02-08,,Ward-15,Street Lighting,Broken street light reported multiple times,Open,Phone Call,High,65,,,2025,2,Feb 2025,6,Saturday,2025-02-08,True,Street Lighting,23.809523809523814,416.0
+GRV-1853,2025-02-09,,Ward-12,Street Lighting,Broken street light reported multiple times,Open,WhatsApp,High,23,,,2025,2,Feb 2025,6,Sunday,2025-02-09,True,Street Lighting,23.992673992673996,415.0
+GRV-1824,2025-02-14,,Ward-17,Public Property,Public toilet locked / not accessible,Open,Website,High,32,,,2025,2,Feb 2025,7,Friday,2025-02-14,True,Public Property,24.90842490842491,410.0
+GRV-2506,2025-02-14,,Ward-07,Street Lighting,Electric pole fallen on road – dangerous,Open,Walk-In,High,46,,,2025,2,Feb 2025,7,Friday,2025-02-14,True,Road & Infrastructure,24.90842490842491,410.0
+GRV-2505,2025-02-17,,Ward-17,Public Property,Public toilet locked / not accessible,Open,WhatsApp,High,46,,,2025,2,Feb 2025,8,Monday,2025-02-17,True,Public Property,25.457875457875456,407.0
+GRV-2157,2025-02-18,,Ward-11,Street Lighting,Short circuit sparks from street light,Open,Walk-In,High,44,,,2025,2,Feb 2025,8,Tuesday,2025-02-18,True,Street Lighting,25.64102564102564,406.0
+GRV-2247,2025-02-21,,Ward-14,Public Property,Stray dogs attacking residents near park,Open,Phone Call,Critical,46,,,2025,2,Feb 2025,8,Friday,2025-02-21,True,Public Property,26.190476190476186,403.0
+GRV-1117,2025-02-22,,Ward-15,Waste Management,Garbage not collected for a week,Open,Walk-In,High,27,,,2025,2,Feb 2025,8,Saturday,2025-02-22,True,Waste Management,26.37362637362637,402.0
+GRV-1976,2025-02-23,,Ward-18,Sewage & Drainage,Blocked drain causing flooding in colony,Open,WhatsApp,Critical,45,,,2025,2,Feb 2025,8,Sunday,2025-02-23,True,Sewage & Drainage,26.55677655677655,401.0
+GRV-2998,2025-02-23,,Ward-06,Water Supply,Dirty/contaminated water coming from tap,In Progress,Walk-In,High,46,,,2025,2,Feb 2025,8,Sunday,2025-02-23,True,Water Supply,26.55677655677655,401.0
+GRV-1558,2025-02-25,,Ward-12,Public Property,Encroachment on footpath by shop owners,Open,WhatsApp,Critical,64,,,2025,2,Feb 2025,9,Tuesday,2025-02-25,True,Road & Infrastructure,26.923076923076927,399.0
+GRV-1339,2025-02-26,,Ward-09,Water Supply,No water supply for 3 days,In Progress,Phone Call,High,25,,,2025,2,Feb 2025,9,Wednesday,2025-02-26,True,Water Supply,27.10622710622711,398.0
+GRV-1334,2025-02-26,,Ward-06,Street Lighting,Broken street light reported multiple times,In Progress,Phone Call,Critical,19,,,2025,2,Feb 2025,9,Wednesday,2025-02-26,True,Street Lighting,27.10622710622711,398.0
+GRV-2659,2025-03-01,,Ward-10,Waste Management,Garbage not collected for a week,In Progress,WhatsApp,Critical,46,,,2025,3,Mar 2025,9,Saturday,2025-03-01,True,Waste Management,27.655677655677657,395.0
+GRV-1515,2025-03-04,,Ward-18,Noise & Pollution,Dust from road construction affecting residents,In Progress,Website,High,46,,,2025,3,Mar 2025,10,Tuesday,2025-03-04,True,Road & Infrastructure,28.205128205128204,392.0
+GRV-2861,2025-03-04,,Ward-01,Public Property,Stray dogs attacking residents near park,Open,Unknown,Critical,67,,,2025,3,Mar 2025,10,Tuesday,2025-03-04,True,Public Property,28.205128205128204,392.0
+GRV-2323,2025-03-07,,Ward-07,Street Lighting,Short circuit sparks from street light,Open,Walk-In,Critical,66,,,2025,3,Mar 2025,10,Friday,2025-03-07,True,Street Lighting,28.754578754578752,389.0
+GRV-2678,2025-03-08,,Ward-19,Street Lighting,Broken street light reported multiple times,Open,WhatsApp,Critical,38,,,2025,3,Mar 2025,10,Saturday,2025-03-08,True,Street Lighting,28.937728937728934,388.0
+GRV-1335,2025-03-09,,Ward-06,Public Property,Tree fallen on parked vehicles,Open,Website,Critical,51,,,2025,3,Mar 2025,10,Sunday,2025-03-09,True,Public Property,29.120879120879117,387.0
+GRV-1037,2025-03-10,,Ward-18,Water Supply,No water supply for 3 days,Open,Phone Call,High,65,,,2025,3,Mar 2025,11,Monday,2025-03-10,True,Water Supply,29.3040293040293,386.0
+GRV-1268,2025-03-10,,Ward-20,Street Lighting,Frequent power fluctuation in area,Open,Walk-In,High,46,,,2025,3,Mar 2025,11,Monday,2025-03-10,True,Street Lighting,29.3040293040293,386.0
+GRV-1448,2025-03-14,,Ward-12,Road & Infrastructure,Speed breaker removed without notice,In Progress,WhatsApp,Critical,22,,,2025,3,Mar 2025,11,Friday,2025-03-14,True,Other,30.03663003663004,382.0
+GRV-1557,2025-03-15,,Ward-10,Street Lighting,Street lights not working for 2 weeks,In Progress,WhatsApp,High,56,,,2025,3,Mar 2025,11,Saturday,2025-03-15,True,Street Lighting,30.219780219780223,381.0
+GRV-2518,2025-03-15,,Ward-12,Road & Infrastructure,Speed breaker removed without notice,Open,Walk-In,Critical,24,,,2025,3,Mar 2025,11,Saturday,2025-03-15,True,Other,30.219780219780223,381.0
+GRV-1933,2025-03-18,,Ward-15,Sewage & Drainage,Foul smell from open drainage channel,In Progress,Website,Critical,59,,,2025,3,Mar 2025,12,Tuesday,2025-03-18,True,Sewage & Drainage,30.76923076923077,378.0
+GRV-1282,2025-03-21,,Ward-18,Public Property,Encroachment on footpath by shop owners,In Progress,Mobile App,High,30,,,2025,3,Mar 2025,12,Friday,2025-03-21,True,Road & Infrastructure,31.318681318681318,375.0
+GRV-1785,2025-03-21,,Ward-19,Noise & Pollution,Dust from road construction affecting residents,In Progress,Walk-In,Critical,60,,,2025,3,Mar 2025,12,Friday,2025-03-21,True,Road & Infrastructure,31.318681318681318,375.0
+GRV-2748,2025-03-22,,Ward-16,Water Supply,Dirty/contaminated water coming from tap,Open,Phone Call,Critical,19,,,2025,3,Mar 2025,12,Saturday,2025-03-22,True,Water Supply,31.5018315018315,374.0
+GRV-2639,2025-03-27,,Ward-07,Public Property,Stray dogs attacking residents near park,In Progress,Mobile App,Critical,36,,,2025,3,Mar 2025,13,Thursday,2025-03-27,True,Public Property,32.417582417582416,369.0
+GRV-2851,2025-03-30,,Ward-12,Sewage & Drainage,Manhole cover missing – safety hazard,Open,Website,Critical,40,,,2025,3,Mar 2025,13,Sunday,2025-03-30,True,Sewage & Drainage,32.96703296703297,366.0
+GRV-2108,2025-03-31,,Ward-03,Road & Infrastructure,Broken footpath causing injury to pedestrians,In Progress,Website,Critical,48,,,2025,3,Mar 2025,14,Monday,2025-03-31,True,Road & Infrastructure,33.15018315018315,365.0
+GRV-1419,2025-04-01,,Ward-12,Public Property,Tree fallen on parked vehicles,Open,WhatsApp,High,46,,,2025,4,Apr 2025,14,Tuesday,2025-04-01,True,Public Property,33.333333333333336,364.0
+GRV-2606,2025-04-01,,Ward-13,Noise & Pollution,Loud music from nearby event venue,Open,Website,High,31,,,2025,4,Apr 2025,14,Tuesday,2025-04-01,True,Other,33.333333333333336,364.0
+GRV-1573,2025-04-05,,Ward-06,Water Supply,Dirty/contaminated water coming from tap,Open,Mobile App,Critical,60,,,2025,4,Apr 2025,14,Saturday,2025-04-05,True,Water Supply,34.065934065934066,360.0
+GRV-1188,2025-04-06,,Ward-05,Road & Infrastructure,Speed breaker removed without notice,Open,WhatsApp,High,60,,,2025,4,Apr 2025,14,Sunday,2025-04-06,True,Other,34.24908424908425,359.0
+GRV-1775,2025-04-06,,Ward-19,Road & Infrastructure,Large pothole causing accidents on highway,Open,Website,Critical,60,,,2025,4,Apr 2025,14,Sunday,2025-04-06,True,Road & Infrastructure,34.24908424908425,359.0
+GRV-1666,2025-04-08,,Ward-10,Waste Management,Illegal dumping of waste on street,Open,Website,High,59,,,2025,4,Apr 2025,15,Tuesday,2025-04-08,True,Waste Management,34.61538461538461,357.0
+GRV-2299,2025-04-10,,Ward-19,Noise & Pollution,Burning of garbage creating air pollution,Open,Website,High,32,,,2025,4,Apr 2025,15,Thursday,2025-04-10,True,Waste Management,34.98168498168498,355.0
+GRV-1862,2025-04-11,,Ward-09,Water Supply,Low water pressure in pipes,Open,Website,High,46,,,2025,4,Apr 2025,15,Friday,2025-04-11,True,Water Supply,35.16483516483516,354.0
+GRV-1794,2025-04-13,,Ward-17,Water Supply,Dirty/contaminated water coming from tap,Open,Phone Call,High,30,,,2025,4,Apr 2025,15,Sunday,2025-04-13,True,Water Supply,35.531135531135526,352.0
+GRV-1971,2025-04-14,,Ward-13,Street Lighting,Frequent power fluctuation in area,Open,WhatsApp,Critical,46,,,2025,4,Apr 2025,16,Monday,2025-04-14,True,Street Lighting,35.71428571428571,351.0
+GRV-2770,2025-04-17,,Ward-02,Street Lighting,Broken street light reported multiple times,Open,Mobile App,High,19,,,2025,4,Apr 2025,16,Thursday,2025-04-17,True,Street Lighting,36.26373626373627,348.0
+GRV-1741,2025-04-19,,Ward-15,Public Property,Tree fallen on parked vehicles,Open,Walk-In,Critical,46,,,2025,4,Apr 2025,16,Saturday,2025-04-19,True,Public Property,36.630036630036635,346.0
+GRV-1535,2025-04-20,,Ward-18,Sewage & Drainage,Sewage overflowing onto road,In Progress,Mobile App,Critical,26,,,2025,4,Apr 2025,16,Sunday,2025-04-20,True,Road & Infrastructure,36.81318681318682,345.0
+GRV-1707,2025-04-20,,Ward-13,Public Property,Public toilet locked / not accessible,In Progress,Walk-In,High,20,,,2025,4,Apr 2025,16,Sunday,2025-04-20,True,Public Property,36.81318681318682,345.0
+GRV-1367,2025-04-23,,Ward-05,Road & Infrastructure,Speed breaker removed without notice,Open,Mobile App,Critical,46,,,2025,4,Apr 2025,17,Wednesday,2025-04-23,True,Other,37.362637362637365,342.0
+GRV-1471,2025-04-23,,Ward-18,Sewage & Drainage,Manhole cover missing – safety hazard,In Progress,WhatsApp,Critical,29,,,2025,4,Apr 2025,17,Wednesday,2025-04-23,True,Sewage & Drainage,37.362637362637365,342.0
+GRV-2032,2025-04-25,,Ward-02,Waste Management,Garbage not collected for a week,In Progress,Walk-In,Critical,28,,,2025,4,Apr 2025,17,Friday,2025-04-25,True,Waste Management,37.72893772893773,340.0
+GRV-2556,2025-04-30,,Ward-07,Street Lighting,Street lights not working for 2 weeks,In Progress,Walk-In,High,20,,,2025,4,Apr 2025,18,Wednesday,2025-04-30,True,Street Lighting,38.64468864468864,335.0
+GRV-1923,2025-05-01,,Ward-14,Water Supply,Dirty/contaminated water coming from tap,In Progress,Phone Call,High,46,,,2025,5,May 2025,18,Thursday,2025-05-01,True,Water Supply,38.827838827838825,334.0
+GRV-2080,2025-05-03,,Ward-03,Noise & Pollution,Burning of garbage creating air pollution,In Progress,WhatsApp,High,57,,,2025,5,May 2025,18,Saturday,2025-05-03,True,Waste Management,39.1941391941392,332.0
+GRV-2768,2025-05-03,,Ward-12,Waste Management,Garbage truck does not come on schedule,Open,WhatsApp,Critical,20,,,2025,5,May 2025,18,Saturday,2025-05-03,True,Waste Management,39.1941391941392,332.0
+GRV-2030,2025-05-04,,Ward-03,Road & Infrastructure,Large pothole causing accidents on highway,Open,Website,High,43,,,2025,5,May 2025,18,Sunday,2025-05-04,True,Road & Infrastructure,39.37728937728938,331.0
+GRV-2024,2025-05-08,,Ward-15,Public Property,Public toilet locked / not accessible,In Progress,WhatsApp,High,59,,,2025,5,May 2025,19,Thursday,2025-05-08,True,Public Property,40.10989010989011,327.0
+GRV-2139,2025-05-09,,Ward-03,Water Supply,No water supply for 3 days,Open,WhatsApp,High,46,,,2025,5,May 2025,19,Friday,2025-05-09,True,Water Supply,40.29304029304029,326.0
+GRV-2170,2025-05-09,,Ward-10,Public Property,Tree fallen on parked vehicles,In Progress,Website,High,25,,,2025,5,May 2025,19,Friday,2025-05-09,True,Public Property,40.29304029304029,326.0
+GRV-2595,2025-05-12,,Ward-02,Road & Infrastructure,Road completely waterlogged after rain,Open,WhatsApp,High,73,,,2025,5,May 2025,20,Monday,2025-05-12,True,Water Supply,40.84249084249084,323.0
+GRV-1844,2025-05-12,,Ward-07,Waste Management,Garbage truck does not come on schedule,Open,Website,High,52,,,2025,5,May 2025,20,Monday,2025-05-12,True,Waste Management,40.84249084249084,323.0
+GRV-1219,2025-05-15,,Ward-09,Water Supply,Dirty/contaminated water coming from tap,In Progress,Phone Call,Critical,46,,,2025,5,May 2025,20,Thursday,2025-05-15,True,Water Supply,41.39194139194139,320.0
+GRV-2052,2025-05-22,,Ward-16,Water Supply,Water pipeline leakage on main road,Open,Website,High,47,,,2025,5,May 2025,21,Thursday,2025-05-22,True,Water Supply,42.67399267399268,313.0
+GRV-1588,2025-05-22,,Ward-19,Street Lighting,Broken street light reported multiple times,In Progress,Walk-In,Critical,72,,,2025,5,May 2025,21,Thursday,2025-05-22,True,Street Lighting,42.67399267399268,313.0
+GRV-2544,2025-05-24,,Ward-05,Noise & Pollution,Dust from road construction affecting residents,Open,WhatsApp,High,35,,,2025,5,May 2025,21,Saturday,2025-05-24,True,Road & Infrastructure,43.040293040293044,311.0
+GRV-2002,2025-05-27,,Ward-16,Water Supply,Water pipeline leakage on main road,In Progress,WhatsApp,High,46,,,2025,5,May 2025,22,Tuesday,2025-05-27,True,Water Supply,43.58974358974359,308.0
+GRV-1502,2025-05-30,,Ward-14,Water Supply,Water pipeline leakage on main road,In Progress,Mobile App,High,37,,,2025,5,May 2025,22,Friday,2025-05-30,True,Water Supply,44.13919413919414,305.0
+GRV-1260,2025-05-30,,Ward-20,Sewage & Drainage,Manhole cover missing – safety hazard,Open,Unknown,High,51,,,2025,5,May 2025,22,Friday,2025-05-30,True,Sewage & Drainage,44.13919413919414,305.0
+GRV-1739,2025-06-03,,Ward-10,Sewage & Drainage,Manhole cover missing – safety hazard,Open,Mobile App,Critical,37,,,2025,6,Jun 2025,23,Tuesday,2025-06-03,True,Sewage & Drainage,44.87179487179487,301.0
+GRV-2976,2025-06-03,,Ward-05,Public Property,Park benches broken and vandalised,Open,Phone Call,High,46,,,2025,6,Jun 2025,23,Tuesday,2025-06-03,True,Public Property,44.87179487179487,301.0
+GRV-1562,2025-06-05,,Ward-02,Waste Management,No waste bins available in the area,In Progress,Walk-In,High,46,,,2025,6,Jun 2025,23,Thursday,2025-06-05,True,Waste Management,45.238095238095234,299.0
+GRV-1422,2025-06-07,,Ward-19,Water Supply,Dirty/contaminated water coming from tap,In Progress,WhatsApp,High,46,,,2025,6,Jun 2025,23,Saturday,2025-06-07,True,Water Supply,45.604395604395606,297.0
+GRV-1313,2025-06-10,,Ward-10,Sewage & Drainage,Sewage mixing with drinking water pipeline,Open,Walk-In,High,40,,,2025,6,Jun 2025,24,Tuesday,2025-06-10,True,Water Supply,46.15384615384615,294.0
+GRV-1379,2025-06-11,,Ward-08,Waste Management,Garbage not collected for a week,Open,Website,High,59,,,2025,6,Jun 2025,24,Wednesday,2025-06-11,True,Waste Management,46.336996336996336,293.0
+GRV-2729,2025-06-11,,Ward-09,Street Lighting,Frequent power fluctuation in area,In Progress,Mobile App,Critical,28,,,2025,6,Jun 2025,24,Wednesday,2025-06-11,True,Street Lighting,46.336996336996336,293.0
+GRV-2605,2025-06-11,,Ward-20,Street Lighting,Short circuit sparks from street light,In Progress,Website,High,54,,,2025,6,Jun 2025,24,Wednesday,2025-06-11,True,Street Lighting,46.336996336996336,293.0
+GRV-1529,2025-06-11,,Ward-04,Water Supply,No water supply for 3 days,Open,WhatsApp,High,46,,,2025,6,Jun 2025,24,Wednesday,2025-06-11,True,Water Supply,46.336996336996336,293.0
+GRV-2554,2025-06-12,,Ward-06,Water Supply,Dirty/contaminated water coming from tap,In Progress,Phone Call,High,71,,,2025,6,Jun 2025,24,Thursday,2025-06-12,True,Water Supply,46.52014652014652,292.0
+GRV-1848,2025-06-13,,Ward-18,Road & Infrastructure,Road construction debris not cleared,Open,WhatsApp,High,46,,,2025,6,Jun 2025,24,Friday,2025-06-13,True,Road & Infrastructure,46.7032967032967,291.0
+GRV-2424,2025-06-13,,Ward-05,Noise & Pollution,Burning of garbage creating air pollution,In Progress,Website,High,24,,,2025,6,Jun 2025,24,Friday,2025-06-13,True,Waste Management,46.7032967032967,291.0
+GRV-1931,2025-06-15,,Ward-18,Road & Infrastructure,Broken footpath causing injury to pedestrians,In Progress,Website,High,43,,,2025,6,Jun 2025,24,Sunday,2025-06-15,True,Road & Infrastructure,47.069597069597066,289.0
+GRV-2617,2025-06-15,,Ward-15,Public Property,Public toilet locked / not accessible,Open,Unknown,Critical,23,,,2025,6,Jun 2025,24,Sunday,2025-06-15,True,Public Property,47.069597069597066,289.0
+GRV-1384,2025-06-17,,Ward-18,Street Lighting,Broken street light reported multiple times,In Progress,Website,High,36,,,2025,6,Jun 2025,25,Tuesday,2025-06-17,True,Street Lighting,47.43589743589743,287.0
+GRV-2661,2025-06-18,,Ward-13,Waste Management,No waste bins available in the area,Open,Mobile App,Critical,51,,,2025,6,Jun 2025,25,Wednesday,2025-06-18,True,Waste Management,47.61904761904761,286.0
+GRV-1414,2025-06-19,,Ward-18,Noise & Pollution,Construction noise beyond permitted hours,Open,WhatsApp,High,59,,,2025,6,Jun 2025,25,Thursday,2025-06-19,True,Road & Infrastructure,47.802197802197796,285.0
+GRV-2929,2025-06-21,,Ward-20,Road & Infrastructure,Large pothole causing accidents on highway,Open,Unknown,High,24,,,2025,6,Jun 2025,25,Saturday,2025-06-21,True,Road & Infrastructure,48.16849816849816,283.0
+GRV-2175,2025-06-24,,Ward-16,Waste Management,Garbage truck does not come on schedule,Open,WhatsApp,High,64,,,2025,6,Jun 2025,26,Tuesday,2025-06-24,True,Waste Management,48.71794871794872,280.0
+GRV-1173,2025-06-25,,Ward-10,Water Supply,Water meter not working properly,Open,Walk-In,High,27,,,2025,6,Jun 2025,26,Wednesday,2025-06-25,True,Water Supply,48.901098901098905,279.0
+GRV-2373,2025-06-25,,Ward-07,Water Supply,Low water pressure in pipes,Open,Mobile App,High,74,,,2025,6,Jun 2025,26,Wednesday,2025-06-25,True,Water Supply,48.901098901098905,279.0
+GRV-2805,2025-06-26,,Ward-05,Noise & Pollution,Factory emitting foul-smelling smoke,Open,WhatsApp,Critical,70,,,2025,6,Jun 2025,26,Thursday,2025-06-26,True,Noise & Pollution,49.08424908424909,278.0
+GRV-2049,2025-06-27,,Ward-08,Road & Infrastructure,Speed breaker removed without notice,In Progress,Walk-In,High,59,,,2025,6,Jun 2025,26,Friday,2025-06-27,True,Other,49.26739926739927,277.0
+GRV-1881,2025-06-27,,Ward-18,Street Lighting,Broken street light reported multiple times,In Progress,Phone Call,Critical,27,,,2025,6,Jun 2025,26,Friday,2025-06-27,True,Street Lighting,49.26739926739927,277.0
+GRV-1226,2025-06-28,,Ward-14,Road & Infrastructure,Road construction debris not cleared,Open,WhatsApp,Critical,63,,,2025,6,Jun 2025,26,Saturday,2025-06-28,True,Road & Infrastructure,49.45054945054945,276.0
+GRV-2772,2025-06-29,,Ward-13,Noise & Pollution,Dust from road construction affecting residents,Open,Phone Call,High,72,,,2025,6,Jun 2025,26,Sunday,2025-06-29,True,Road & Infrastructure,49.633699633699635,275.0
+GRV-1667,2025-06-30,,Ward-10,Road & Infrastructure,Broken footpath causing injury to pedestrians,Open,Website,High,38,,,2025,6,Jun 2025,27,Monday,2025-06-30,True,Road & Infrastructure,49.81684981684982,274.0
+GRV-2062,2025-07-02,,Ward-05,Public Property,Park benches broken and vandalised,Open,WhatsApp,Critical,25,,,2025,7,Jul 2025,27,Wednesday,2025-07-02,True,Public Property,50.18315018315018,272.0
+GRV-1624,2025-07-03,,Ward-02,Noise & Pollution,Dust from road construction affecting residents,Open,Website,High,28,,,2025,7,Jul 2025,27,Thursday,2025-07-03,True,Road & Infrastructure,50.366300366300365,271.0
+GRV-2537,2025-07-05,,Ward-20,Public Property,Tree fallen on parked vehicles,Open,Walk-In,Critical,64,,,2025,7,Jul 2025,27,Saturday,2025-07-05,True,Public Property,50.73260073260073,269.0
+GRV-2713,2025-07-06,,Ward-16,Public Property,Tree fallen on parked vehicles,In Progress,Unknown,High,61,,,2025,7,Jul 2025,27,Sunday,2025-07-06,True,Public Property,50.91575091575091,268.0
+GRV-1943,2025-07-08,,Ward-04,Noise & Pollution,Loud music from nearby event venue,In Progress,Walk-In,High,54,,,2025,7,Jul 2025,28,Tuesday,2025-07-08,True,Other,51.28205128205128,266.0
+GRV-1094,2025-07-09,,Ward-13,Water Supply,Low water pressure in pipes,Open,Walk-In,High,44,,,2025,7,Jul 2025,28,Wednesday,2025-07-09,True,Water Supply,51.46520146520146,265.0
+GRV-1679,2025-07-09,,Ward-06,Street Lighting,Broken street light reported multiple times,In Progress,Mobile App,High,67,,,2025,7,Jul 2025,28,Wednesday,2025-07-09,True,Street Lighting,51.46520146520146,265.0
+GRV-2832,2025-07-10,,Ward-14,Road & Infrastructure,Broken footpath causing injury to pedestrians,In Progress,Mobile App,High,27,,,2025,7,Jul 2025,28,Thursday,2025-07-10,True,Road & Infrastructure,51.64835164835164,264.0
+GRV-1939,2025-07-11,,Ward-19,Road & Infrastructure,Large pothole causing accidents on highway,In Progress,Walk-In,High,63,,,2025,7,Jul 2025,28,Friday,2025-07-11,True,Road & Infrastructure,51.831501831501825,263.0
+GRV-1459,2025-07-13,,Ward-08,Noise & Pollution,Construction noise beyond permitted hours,In Progress,Unknown,High,36,,,2025,7,Jul 2025,28,Sunday,2025-07-13,True,Road & Infrastructure,52.19780219780219,261.0
+GRV-1045,2025-07-15,,Ward-16,Road & Infrastructure,Large pothole causing accidents on highway,Open,WhatsApp,Critical,44,,,2025,7,Jul 2025,29,Tuesday,2025-07-15,True,Road & Infrastructure,52.56410256410257,259.0
+GRV-2629,2025-07-16,,Ward-20,Noise & Pollution,Loud music from nearby event venue,In Progress,Mobile App,High,39,,,2025,7,Jul 2025,29,Wednesday,2025-07-16,True,Other,52.74725274725275,258.0
+GRV-1393,2025-07-16,,Ward-14,Water Supply,Water pipeline leakage on main road,Open,Walk-In,High,19,,,2025,7,Jul 2025,29,Wednesday,2025-07-16,True,Water Supply,52.74725274725275,258.0
+GRV-2182,2025-07-17,,Ward-07,Water Supply,Low water pressure in pipes,In Progress,WhatsApp,Critical,30,,,2025,7,Jul 2025,29,Thursday,2025-07-17,True,Water Supply,52.930402930402934,257.0
+GRV-2647,2025-07-17,,Ward-01,Waste Management,Garbage not collected for a week,Open,Walk-In,Critical,50,,,2025,7,Jul 2025,29,Thursday,2025-07-17,True,Waste Management,52.930402930402934,257.0
+GRV-1363,2025-07-22,,Ward-15,Public Property,Park benches broken and vandalised,Open,Phone Call,High,46,,,2025,7,Jul 2025,30,Tuesday,2025-07-22,True,Public Property,53.84615384615385,252.0
+GRV-2955,2025-07-27,,Ward-01,Water Supply,Water pipeline leakage on main road,In Progress,Walk-In,Critical,46,,,2025,7,Jul 2025,30,Sunday,2025-07-27,True,Water Supply,54.761904761904766,247.0
+GRV-1729,2025-07-27,,Ward-17,Waste Management,Overflowing dustbin near bus stop,In Progress,Phone Call,High,59,,,2025,7,Jul 2025,30,Sunday,2025-07-27,True,Waste Management,54.761904761904766,247.0
+GRV-2347,2025-07-27,,Ward-03,Water Supply,Dirty/contaminated water coming from tap,Open,Website,High,32,,,2025,7,Jul 2025,30,Sunday,2025-07-27,True,Water Supply,54.761904761904766,247.0
+GRV-2262,2025-07-30,,Ward-18,Water Supply,Low water pressure in pipes,In Progress,Phone Call,High,49,,,2025,7,Jul 2025,31,Wednesday,2025-07-30,True,Water Supply,55.311355311355314,244.0
+GRV-2611,2025-07-30,,Ward-14,Sewage & Drainage,Foul smell from open drainage channel,In Progress,Website,Critical,66,,,2025,7,Jul 2025,31,Wednesday,2025-07-30,True,Sewage & Drainage,55.311355311355314,244.0
+GRV-2575,2025-08-02,,Ward-07,Waste Management,No waste bins available in the area,In Progress,Mobile App,High,39,,,2025,8,Aug 2025,31,Saturday,2025-08-02,True,Waste Management,55.86080586080586,241.0
+GRV-2586,2025-08-04,,Ward-20,Water Supply,Low water pressure in pipes,In Progress,Website,Critical,74,,,2025,8,Aug 2025,32,Monday,2025-08-04,True,Water Supply,56.227106227106226,239.0
+GRV-1242,2025-08-05,,Ward-13,Public Property,Stray dogs attacking residents near park,Open,Mobile App,Critical,46,,,2025,8,Aug 2025,32,Tuesday,2025-08-05,True,Public Property,56.41025641025641,238.0
+GRV-2970,2025-08-08,,Ward-15,Noise & Pollution,Dust from road construction affecting residents,Open,WhatsApp,Critical,34,,,2025,8,Aug 2025,32,Friday,2025-08-08,True,Road & Infrastructure,56.959706959706956,235.0
+GRV-2006,2025-08-10,,Ward-02,Water Supply,Dirty/contaminated water coming from tap,Open,WhatsApp,High,24,,,2025,8,Aug 2025,32,Sunday,2025-08-10,True,Water Supply,57.32600732600732,233.0
+GRV-1570,2025-08-10,,Ward-15,Noise & Pollution,Factory emitting foul-smelling smoke,In Progress,Phone Call,High,47,,,2025,8,Aug 2025,32,Sunday,2025-08-10,True,Noise & Pollution,57.32600732600732,233.0
+GRV-2235,2025-08-13,,Ward-01,Water Supply,No water supply for 3 days,Open,Mobile App,High,64,,,2025,8,Aug 2025,33,Wednesday,2025-08-13,True,Water Supply,57.87545787545787,230.0
+GRV-2489,2025-08-15,,Ward-16,Road & Infrastructure,Broken footpath causing injury to pedestrians,Open,Walk-In,Critical,37,,,2025,8,Aug 2025,33,Friday,2025-08-15,True,Road & Infrastructure,58.241758241758234,228.0
+GRV-1964,2025-08-19,,Ward-13,Noise & Pollution,Loud music from nearby event venue,Open,WhatsApp,Critical,62,,,2025,8,Aug 2025,34,Tuesday,2025-08-19,True,Other,58.97435897435898,224.0
+GRV-1195,2025-08-20,,Ward-18,Waste Management,No waste bins available in the area,Open,Phone Call,Critical,46,,,2025,8,Aug 2025,34,Wednesday,2025-08-20,True,Waste Management,59.15750915750916,223.0
+GRV-1833,2025-08-20,,Ward-17,Street Lighting,Short circuit sparks from street light,In Progress,Mobile App,High,52,,,2025,8,Aug 2025,34,Wednesday,2025-08-20,True,Street Lighting,59.15750915750916,223.0
+GRV-2096,2025-08-21,,Ward-05,Public Property,Stray dogs attacking residents near park,In Progress,WhatsApp,High,41,,,2025,8,Aug 2025,34,Thursday,2025-08-21,True,Public Property,59.34065934065934,222.0
+GRV-1125,2025-08-22,,Ward-08,Street Lighting,Electric pole fallen on road – dangerous,Open,Mobile App,High,37,,,2025,8,Aug 2025,34,Friday,2025-08-22,True,Road & Infrastructure,59.523809523809526,221.0
+GRV-1029,2025-08-22,,Ward-20,Waste Management,Illegal dumping of waste on street,In Progress,Website,Critical,46,,,2025,8,Aug 2025,34,Friday,2025-08-22,True,Waste Management,59.523809523809526,221.0
+GRV-2027,2025-08-22,,Ward-05,Road & Infrastructure,Broken footpath causing injury to pedestrians,Open,Phone Call,High,35,,,2025,8,Aug 2025,34,Friday,2025-08-22,True,Road & Infrastructure,59.523809523809526,221.0
+GRV-1088,2025-08-26,,Ward-15,Water Supply,Water pipeline leakage on main road,Open,WhatsApp,Critical,29,,,2025,8,Aug 2025,35,Tuesday,2025-08-26,True,Water Supply,60.25641025641026,217.0
+GRV-2986,2025-08-27,,Ward-18,Street Lighting,Short circuit sparks from street light,Open,Mobile App,Critical,67,,,2025,8,Aug 2025,35,Wednesday,2025-08-27,True,Street Lighting,60.439560439560445,216.0
+GRV-2559,2025-08-27,,Ward-13,Water Supply,Low water pressure in pipes,In Progress,WhatsApp,High,71,,,2025,8,Aug 2025,35,Wednesday,2025-08-27,True,Water Supply,60.439560439560445,216.0
+GRV-2988,2025-08-27,,Ward-20,Sewage & Drainage,Sewage mixing with drinking water pipeline,In Progress,WhatsApp,High,22,,,2025,8,Aug 2025,35,Wednesday,2025-08-27,True,Water Supply,60.439560439560445,216.0
+GRV-2578,2025-08-28,,Ward-13,Sewage & Drainage,Sewage overflowing onto road,Open,Walk-In,Critical,27,,,2025,8,Aug 2025,35,Thursday,2025-08-28,True,Road & Infrastructure,60.62271062271063,215.0
+GRV-2159,2025-08-29,,Ward-17,Sewage & Drainage,Blocked drain causing flooding in colony,Open,Website,High,54,,,2025,8,Aug 2025,35,Friday,2025-08-29,True,Sewage & Drainage,60.80586080586081,214.0
+GRV-2156,2025-08-29,,Ward-05,Public Property,Encroachment on footpath by shop owners,Open,Mobile App,High,41,,,2025,8,Aug 2025,35,Friday,2025-08-29,True,Road & Infrastructure,60.80586080586081,214.0
+GRV-1898,2025-08-30,,Ward-15,Water Supply,Low water pressure in pipes,In Progress,Walk-In,High,24,,,2025,8,Aug 2025,35,Saturday,2025-08-30,True,Water Supply,60.98901098901099,213.0
+GRV-1103,2025-08-31,,Ward-11,Street Lighting,Electric pole fallen on road – dangerous,Open,Phone Call,High,68,,,2025,8,Aug 2025,35,Sunday,2025-08-31,True,Road & Infrastructure,61.172161172161175,212.0
+GRV-1455,2025-09-02,,Ward-14,Road & Infrastructure,Speed breaker removed without notice,Open,Website,High,36,,,2025,9,Sep 2025,36,Tuesday,2025-09-02,True,Other,61.53846153846154,210.0
+GRV-1902,2025-09-02,,Ward-02,Street Lighting,Electric pole fallen on road – dangerous,Open,Walk-In,Critical,37,,,2025,9,Sep 2025,36,Tuesday,2025-09-02,True,Road & Infrastructure,61.53846153846154,210.0
+GRV-2871,2025-09-03,,Ward-18,Sewage & Drainage,Manhole cover missing – safety hazard,Open,Unknown,High,30,,,2025,9,Sep 2025,36,Wednesday,2025-09-03,True,Sewage & Drainage,61.72161172161172,209.0
+GRV-2138,2025-09-04,,Ward-06,Noise & Pollution,Dust from road construction affecting residents,In Progress,Mobile App,High,58,,,2025,9,Sep 2025,36,Thursday,2025-09-04,True,Road & Infrastructure,61.904761904761905,208.0
+GRV-1875,2025-09-05,,Ward-13,Street Lighting,Broken street light reported multiple times,Open,WhatsApp,High,23,,,2025,9,Sep 2025,36,Friday,2025-09-05,True,Street Lighting,62.08791208791209,207.0
+GRV-1793,2025-09-05,,Ward-15,Sewage & Drainage,Foul smell from open drainage channel,In Progress,Unknown,High,46,,,2025,9,Sep 2025,36,Friday,2025-09-05,True,Sewage & Drainage,62.08791208791209,207.0
+GRV-2513,2025-09-06,,Ward-07,Water Supply,Low water pressure in pipes,Open,WhatsApp,Critical,61,,,2025,9,Sep 2025,36,Saturday,2025-09-06,True,Water Supply,62.27106227106227,206.0
+GRV-1531,2025-09-07,,Ward-20,Public Property,Park benches broken and vandalised,Open,WhatsApp,High,55,,,2025,9,Sep 2025,36,Sunday,2025-09-07,True,Public Property,62.45421245421245,205.0
+GRV-1071,2025-09-07,,Ward-01,Street Lighting,Broken street light reported multiple times,Open,Mobile App,High,46,,,2025,9,Sep 2025,36,Sunday,2025-09-07,True,Street Lighting,62.45421245421245,205.0
+GRV-1172,2025-09-07,,Ward-11,Noise & Pollution,Dust from road construction affecting residents,In Progress,Website,High,23,,,2025,9,Sep 2025,36,Sunday,2025-09-07,True,Road & Infrastructure,62.45421245421245,205.0
+GRV-1628,2025-09-08,,Ward-06,Noise & Pollution,Loud music from nearby event venue,Open,Walk-In,High,46,,,2025,9,Sep 2025,37,Monday,2025-09-08,True,Other,62.637362637362635,204.0
+GRV-2269,2025-09-08,,Ward-14,Public Property,Tree fallen on parked vehicles,In Progress,Phone Call,Critical,25,,,2025,9,Sep 2025,37,Monday,2025-09-08,True,Public Property,62.637362637362635,204.0
+GRV-1266,2025-09-10,,Ward-04,Waste Management,Overflowing dustbin near bus stop,Open,WhatsApp,High,36,,,2025,9,Sep 2025,37,Wednesday,2025-09-10,True,Waste Management,63.003663003663,202.0
+GRV-2086,2025-09-12,,Ward-02,Street Lighting,Broken street light reported multiple times,Open,Phone Call,High,50,,,2025,9,Sep 2025,37,Friday,2025-09-12,True,Street Lighting,63.369963369963365,200.0
+GRV-1603,2025-09-13,,Ward-19,Road & Infrastructure,Road construction debris not cleared,Open,Mobile App,Critical,73,,,2025,9,Sep 2025,37,Saturday,2025-09-13,True,Road & Infrastructure,63.55311355311355,199.0
+GRV-1638,2025-09-15,,Ward-16,Road & Infrastructure,Road completely waterlogged after rain,Open,Phone Call,High,46,,,2025,9,Sep 2025,38,Monday,2025-09-15,True,Water Supply,63.91941391941391,197.0
+GRV-2079,2025-09-16,,Ward-17,Public Property,Park benches broken and vandalised,Open,Unknown,Critical,27,,,2025,9,Sep 2025,38,Tuesday,2025-09-16,True,Public Property,64.1025641025641,196.0
+GRV-2752,2025-09-18,,Ward-13,Waste Management,Illegal dumping of waste on street,Open,Mobile App,High,27,,,2025,9,Sep 2025,38,Thursday,2025-09-18,True,Waste Management,64.46886446886447,194.0
+GRV-1291,2025-09-18,,Ward-18,Road & Infrastructure,Road completely waterlogged after rain,Open,Phone Call,High,50,,,2025,9,Sep 2025,38,Thursday,2025-09-18,True,Water Supply,64.46886446886447,194.0
+GRV-2864,2025-09-20,,Ward-07,Waste Management,Illegal dumping of waste on street,Open,WhatsApp,Critical,43,,,2025,9,Sep 2025,38,Saturday,2025-09-20,True,Waste Management,64.83516483516483,192.0
+GRV-1481,2025-09-20,,Ward-10,Public Property,Stray dogs attacking residents near park,Open,Mobile App,High,31,,,2025,9,Sep 2025,38,Saturday,2025-09-20,True,Public Property,64.83516483516483,192.0
+GRV-2218,2025-09-21,,Ward-11,Waste Management,Garbage truck does not come on schedule,Open,Website,High,26,,,2025,9,Sep 2025,38,Sunday,2025-09-21,True,Waste Management,65.01831501831502,191.0
+GRV-1212,2025-09-21,,Ward-01,Noise & Pollution,Dust from road construction affecting residents,Open,Mobile App,Critical,46,,,2025,9,Sep 2025,38,Sunday,2025-09-21,True,Road & Infrastructure,65.01831501831502,191.0
+GRV-1254,2025-09-26,,Ward-02,Street Lighting,Short circuit sparks from street light,In Progress,Website,Critical,60,,,2025,9,Sep 2025,39,Friday,2025-09-26,True,Street Lighting,65.93406593406593,186.0
+GRV-2285,2025-09-27,,Ward-18,Noise & Pollution,Loud music from nearby event venue,Open,WhatsApp,High,49,,,2025,9,Sep 2025,39,Saturday,2025-09-27,True,Other,66.11721611721612,185.0
+GRV-2114,2025-09-29,,Ward-18,Water Supply,No water supply for 3 days,Open,WhatsApp,High,21,,,2025,9,Sep 2025,40,Monday,2025-09-29,True,Water Supply,66.4835164835165,183.0
+GRV-1566,2025-10-02,,Ward-11,Waste Management,Overflowing dustbin near bus stop,Open,Website,High,26,,,2025,10,Oct 2025,40,Thursday,2025-10-02,True,Waste Management,67.03296703296704,180.0
+GRV-2234,2025-10-04,,Ward-16,Noise & Pollution,Dust from road construction affecting residents,In Progress,Mobile App,Critical,45,,,2025,10,Oct 2025,40,Saturday,2025-10-04,True,Road & Infrastructure,67.3992673992674,178.0
+GRV-1542,2025-10-04,,Ward-18,Sewage & Drainage,Sewage overflowing onto road,Open,Website,High,57,,,2025,10,Oct 2025,40,Saturday,2025-10-04,True,Road & Infrastructure,67.3992673992674,178.0
+GRV-1087,2025-10-08,,Ward-18,Public Property,Encroachment on footpath by shop owners,In Progress,Walk-In,Critical,46,,,2025,10,Oct 2025,41,Wednesday,2025-10-08,True,Road & Infrastructure,68.13186813186813,174.0
+GRV-1289,2025-10-09,,Ward-01,Street Lighting,Electric pole fallen on road – dangerous,Open,Phone Call,High,28,,,2025,10,Oct 2025,41,Thursday,2025-10-09,True,Road & Infrastructure,68.31501831501832,173.0
+GRV-1681,2025-10-13,,Ward-16,Street Lighting,Frequent power fluctuation in area,Open,Phone Call,High,69,,,2025,10,Oct 2025,42,Monday,2025-10-13,True,Street Lighting,69.04761904761905,169.0
+GRV-2766,2025-10-13,,Ward-02,Water Supply,Water meter not working properly,Open,Walk-In,Critical,43,,,2025,10,Oct 2025,42,Monday,2025-10-13,True,Water Supply,69.04761904761905,169.0
+GRV-2825,2025-10-13,,Ward-13,Street Lighting,Broken street light reported multiple times,Open,Phone Call,Critical,51,,,2025,10,Oct 2025,42,Monday,2025-10-13,True,Street Lighting,69.04761904761905,169.0
+GRV-2083,2025-10-14,,Ward-16,Street Lighting,Short circuit sparks from street light,In Progress,WhatsApp,High,46,,,2025,10,Oct 2025,42,Tuesday,2025-10-14,True,Street Lighting,69.23076923076923,168.0
+GRV-1197,2025-10-15,,Ward-02,Water Supply,Low water pressure in pipes,Open,Phone Call,Critical,63,,,2025,10,Oct 2025,42,Wednesday,2025-10-15,True,Water Supply,69.41391941391942,167.0
+GRV-1158,2025-10-15,,Ward-04,Sewage & Drainage,Manhole cover missing – safety hazard,Open,Website,Critical,49,,,2025,10,Oct 2025,42,Wednesday,2025-10-15,True,Sewage & Drainage,69.41391941391942,167.0
+GRV-2330,2025-10-17,,Ward-08,Water Supply,No water supply for 3 days,Open,Website,Critical,47,,,2025,10,Oct 2025,42,Friday,2025-10-17,True,Water Supply,69.78021978021978,165.0
+GRV-2260,2025-10-17,,Ward-02,Road & Infrastructure,Road construction debris not cleared,In Progress,Website,High,50,,,2025,10,Oct 2025,42,Friday,2025-10-17,True,Road & Infrastructure,69.78021978021978,165.0
+GRV-2342,2025-10-19,,Ward-03,Water Supply,Low water pressure in pipes,Open,Walk-In,High,65,,,2025,10,Oct 2025,42,Sunday,2025-10-19,True,Water Supply,70.14652014652015,163.0
+GRV-1611,2025-10-19,,Ward-13,Water Supply,Dirty/contaminated water coming from tap,Open,Walk-In,High,20,,,2025,10,Oct 2025,42,Sunday,2025-10-19,True,Water Supply,70.14652014652015,163.0
+GRV-2636,2025-10-20,,Ward-02,Road & Infrastructure,Speed breaker removed without notice,In Progress,Phone Call,High,23,,,2025,10,Oct 2025,43,Monday,2025-10-20,True,Other,70.32967032967032,162.0
+GRV-2806,2025-10-21,,Ward-08,Street Lighting,Frequent power fluctuation in area,Open,Mobile App,High,68,,,2025,10,Oct 2025,43,Tuesday,2025-10-21,True,Street Lighting,70.51282051282051,161.0
+GRV-2358,2025-10-22,,Ward-17,Public Property,Stray dogs attacking residents near park,Open,Phone Call,Critical,66,,,2025,10,Oct 2025,43,Wednesday,2025-10-22,True,Public Property,70.69597069597069,160.0
+GRV-2015,2025-10-22,,Ward-20,Road & Infrastructure,Broken footpath causing injury to pedestrians,In Progress,Phone Call,Critical,38,,,2025,10,Oct 2025,43,Wednesday,2025-10-22,True,Road & Infrastructure,70.69597069597069,160.0
+GRV-2092,2025-10-22,,Ward-05,Water Supply,Low water pressure in pipes,In Progress,Website,High,22,,,2025,10,Oct 2025,43,Wednesday,2025-10-22,True,Water Supply,70.69597069597069,160.0
+GRV-2217,2025-10-28,,Ward-19,Noise & Pollution,Construction noise beyond permitted hours,In Progress,Mobile App,High,18,,,2025,10,Oct 2025,44,Tuesday,2025-10-28,True,Road & Infrastructure,71.7948717948718,154.0
+GRV-2082,2025-10-28,,Ward-11,Road & Infrastructure,Road construction debris not cleared,Open,WhatsApp,High,18,,,2025,10,Oct 2025,44,Tuesday,2025-10-28,True,Road & Infrastructure,71.7948717948718,154.0
+GRV-1270,2025-11-01,,Ward-08,Noise & Pollution,Loud music from nearby event venue,Open,Phone Call,Critical,28,,,2025,11,Nov 2025,44,Saturday,2025-11-01,True,Other,72.52747252747253,150.0
+GRV-1488,2025-11-02,,Ward-16,Waste Management,No waste bins available in the area,Open,WhatsApp,Critical,64,,,2025,11,Nov 2025,44,Sunday,2025-11-02,True,Waste Management,72.71062271062272,149.0
+GRV-2517,2025-11-04,,Ward-04,Public Property,Public toilet locked / not accessible,In Progress,Phone Call,Critical,38,,,2025,11,Nov 2025,45,Tuesday,2025-11-04,True,Public Property,73.07692307692308,147.0
+GRV-1708,2025-11-05,,Ward-06,Sewage & Drainage,Sewage mixing with drinking water pipeline,Open,WhatsApp,High,34,,,2025,11,Nov 2025,45,Wednesday,2025-11-05,True,Water Supply,73.26007326007327,146.0
+GRV-2844,2025-11-05,,Ward-19,Water Supply,Dirty/contaminated water coming from tap,In Progress,Website,High,46,,,2025,11,Nov 2025,45,Wednesday,2025-11-05,True,Water Supply,73.26007326007327,146.0
+GRV-2278,2025-11-06,,Ward-19,Road & Infrastructure,Large pothole causing accidents on highway,Open,Website,High,37,,,2025,11,Nov 2025,45,Thursday,2025-11-06,True,Road & Infrastructure,73.44322344322345,145.0
+GRV-1187,2025-11-06,,Ward-05,Water Supply,Water meter not working properly,In Progress,Mobile App,Critical,31,,,2025,11,Nov 2025,45,Thursday,2025-11-06,True,Water Supply,73.44322344322345,145.0
+GRV-2287,2025-11-07,,Ward-18,Street Lighting,Frequent power fluctuation in area,Open,Phone Call,High,39,,,2025,11,Nov 2025,45,Friday,2025-11-07,True,Street Lighting,73.62637362637363,144.0
+GRV-2113,2025-11-07,,Ward-04,Sewage & Drainage,Manhole cover missing – safety hazard,Open,Website,High,54,,,2025,11,Nov 2025,45,Friday,2025-11-07,True,Sewage & Drainage,73.62637362637363,144.0
+GRV-1468,2025-11-07,,Ward-10,Street Lighting,Frequent power fluctuation in area,In Progress,Mobile App,High,39,,,2025,11,Nov 2025,45,Friday,2025-11-07,True,Street Lighting,73.62637362637363,144.0
+GRV-1695,2025-11-11,,Ward-02,Street Lighting,Electric pole fallen on road – dangerous,Open,Mobile App,High,22,,,2025,11,Nov 2025,46,Tuesday,2025-11-11,True,Road & Infrastructure,74.35897435897436,140.0
+GRV-2474,2025-11-11,,Ward-20,Public Property,Tree fallen on parked vehicles,Open,Phone Call,High,46,,,2025,11,Nov 2025,46,Tuesday,2025-11-11,True,Public Property,74.35897435897436,140.0
+GRV-2867,2025-11-13,,Ward-11,Road & Infrastructure,Road construction debris not cleared,In Progress,Mobile App,Critical,22,,,2025,11,Nov 2025,46,Thursday,2025-11-13,True,Road & Infrastructure,74.72527472527473,138.0
+GRV-2437,2025-11-17,,Ward-20,Road & Infrastructure,Speed breaker removed without notice,In Progress,Walk-In,High,46,,,2025,11,Nov 2025,47,Monday,2025-11-17,True,Other,75.45787545787546,134.0
+GRV-1067,2025-11-17,,Ward-18,Noise & Pollution,Construction noise beyond permitted hours,In Progress,Mobile App,High,74,,,2025,11,Nov 2025,47,Monday,2025-11-17,True,Road & Infrastructure,75.45787545787546,134.0
+GRV-1327,2025-11-20,,Ward-01,Noise & Pollution,Dust from road construction affecting residents,In Progress,Website,High,46,,,2025,11,Nov 2025,47,Thursday,2025-11-20,True,Road & Infrastructure,76.007326007326,131.0
+GRV-2215,2025-11-20,,Ward-03,Noise & Pollution,Burning of garbage creating air pollution,In Progress,WhatsApp,High,68,,,2025,11,Nov 2025,47,Thursday,2025-11-20,True,Waste Management,76.007326007326,131.0
+GRV-2594,2025-11-23,,Ward-20,Waste Management,Garbage not collected for a week,Open,Website,High,22,,,2025,11,Nov 2025,47,Sunday,2025-11-23,True,Waste Management,76.55677655677655,128.0
+GRV-1424,2025-11-24,,Ward-11,Waste Management,No waste bins available in the area,In Progress,Phone Call,High,45,,,2025,11,Nov 2025,48,Monday,2025-11-24,True,Waste Management,76.73992673992673,127.0
+GRV-1415,2025-11-28,,Ward-11,Sewage & Drainage,Blocked drain causing flooding in colony,In Progress,Phone Call,Critical,37,,,2025,11,Nov 2025,48,Friday,2025-11-28,True,Sewage & Drainage,77.47252747252747,123.0
+GRV-2246,2025-11-30,,Ward-15,Street Lighting,Street lights not working for 2 weeks,In Progress,WhatsApp,High,30,,,2025,11,Nov 2025,48,Sunday,2025-11-30,True,Street Lighting,77.83882783882784,121.0
+GRV-2123,2025-12-02,,Ward-15,Public Property,Tree fallen on parked vehicles,In Progress,Unknown,High,23,,,2025,12,Dec 2025,49,Tuesday,2025-12-02,True,Public Property,78.2051282051282,119.0
+GRV-1924,2025-12-09,,Ward-02,Water Supply,Water meter not working properly,Open,Mobile App,High,63,,,2025,12,Dec 2025,50,Tuesday,2025-12-09,True,Water Supply,79.48717948717949,112.0
+GRV-1308,2025-12-10,,Ward-04,Public Property,Tree fallen on parked vehicles,Open,Mobile App,High,42,,,2025,12,Dec 2025,50,Wednesday,2025-12-10,True,Public Property,79.67032967032968,111.0
+GRV-1096,2025-12-11,,Ward-19,Waste Management,No waste bins available in the area,In Progress,Mobile App,High,27,,,2025,12,Dec 2025,50,Thursday,2025-12-11,True,Waste Management,79.85347985347985,110.0
+GRV-1039,2025-12-12,,Ward-03,Waste Management,Illegal dumping of waste on street,In Progress,Website,High,38,,,2025,12,Dec 2025,50,Friday,2025-12-12,True,Waste Management,80.03663003663004,109.0
+GRV-1650,2025-12-13,,Ward-19,Street Lighting,Street lights not working for 2 weeks,Open,Walk-In,High,49,,,2025,12,Dec 2025,50,Saturday,2025-12-13,True,Street Lighting,80.21978021978022,108.0
+GRV-2865,2025-12-16,,Ward-10,Road & Infrastructure,Broken footpath causing injury to pedestrians,Open,WhatsApp,High,43,,,2025,12,Dec 2025,51,Tuesday,2025-12-16,True,Road & Infrastructure,80.76923076923077,105.0
+GRV-1560,2025-12-17,,Ward-12,Street Lighting,Street lights not working for 2 weeks,Open,Mobile App,Critical,46,,,2025,12,Dec 2025,51,Wednesday,2025-12-17,True,Street Lighting,80.95238095238095,104.0
+GRV-1959,2025-12-19,,Ward-18,Waste Management,Garbage truck does not come on schedule,Open,WhatsApp,High,36,,,2025,12,Dec 2025,51,Friday,2025-12-19,True,Waste Management,81.31868131868131,102.0
+GRV-1098,2025-12-20,,Ward-18,Street Lighting,Short circuit sparks from street light,In Progress,WhatsApp,High,51,,,2025,12,Dec 2025,51,Saturday,2025-12-20,True,Street Lighting,81.5018315018315,101.0
+GRV-1674,2025-12-21,,Ward-06,Noise & Pollution,Factory emitting foul-smelling smoke,In Progress,Website,High,67,,,2025,12,Dec 2025,51,Sunday,2025-12-21,True,Noise & Pollution,81.68498168498168,100.0
+GRV-2189,2025-12-23,,Ward-10,Road & Infrastructure,Large pothole causing accidents on highway,Open,Website,Critical,69,,,2025,12,Dec 2025,52,Tuesday,2025-12-23,True,Road & Infrastructure,82.05128205128204,98.0
+GRV-2869,2025-12-24,,Ward-14,Street Lighting,Short circuit sparks from street light,Open,Phone Call,High,34,,,2025,12,Dec 2025,52,Wednesday,2025-12-24,True,Street Lighting,82.23443223443223,97.0
+GRV-2354,2025-12-25,,Ward-16,Public Property,Public toilet locked / not accessible,Open,Website,High,36,,,2025,12,Dec 2025,52,Thursday,2025-12-25,True,Public Property,82.41758241758241,96.0
+GRV-1873,2025-12-26,,Ward-08,Waste Management,Garbage not collected for a week,Open,Phone Call,Critical,49,,,2025,12,Dec 2025,52,Friday,2025-12-26,True,Waste Management,82.6007326007326,95.0
+GRV-2817,2025-12-30,,Ward-18,Water Supply,Low water pressure in pipes,In Progress,WhatsApp,High,46,,,2025,12,Dec 2025,1,Tuesday,2025-12-30,True,Water Supply,83.33333333333334,91.0
+GRV-1584,2025-12-31,,Ward-18,Waste Management,Garbage truck does not come on schedule,Open,Mobile App,Critical,30,,,2025,12,Dec 2025,1,Wednesday,2025-12-31,True,Waste Management,83.51648351648352,90.0
+GRV-1546,2026-01-01,,Ward-05,Noise & Pollution,Burning of garbage creating air pollution,Open,Phone Call,High,61,,,2026,1,Jan 2026,1,Thursday,2026-01-01,True,Waste Management,83.69963369963371,89.0
+GRV-1915,2026-01-03,,Ward-03,Road & Infrastructure,Road construction debris not cleared,Open,WhatsApp,High,67,,,2026,1,Jan 2026,1,Saturday,2026-01-03,True,Road & Infrastructure,84.06593406593407,87.0
+GRV-1091,2026-01-04,,Ward-08,Public Property,Stray dogs attacking residents near park,In Progress,Phone Call,High,46,,,2026,1,Jan 2026,1,Sunday,2026-01-04,True,Public Property,84.24908424908425,86.0
+GRV-1016,2026-01-05,,Ward-05,Public Property,Stray dogs attacking residents near park,Open,Walk-In,High,72,,,2026,1,Jan 2026,2,Monday,2026-01-05,True,Public Property,84.43223443223444,85.0
+GRV-1700,2026-01-06,,Ward-13,Street Lighting,Short circuit sparks from street light,Open,Website,High,33,,,2026,1,Jan 2026,2,Tuesday,2026-01-06,True,Street Lighting,84.61538461538461,84.0
+GRV-2443,2026-01-06,,Ward-16,Water Supply,Water meter not working properly,In Progress,WhatsApp,High,55,,,2026,1,Jan 2026,2,Tuesday,2026-01-06,True,Water Supply,84.61538461538461,84.0
+GRV-2875,2026-01-06,,Ward-13,Noise & Pollution,Loud music from nearby event venue,In Progress,Mobile App,Critical,46,,,2026,1,Jan 2026,2,Tuesday,2026-01-06,True,Other,84.61538461538461,84.0
+GRV-1999,2026-01-07,,Ward-05,Sewage & Drainage,Blocked drain causing flooding in colony,Open,Walk-In,High,34,,,2026,1,Jan 2026,2,Wednesday,2026-01-07,True,Sewage & Drainage,84.7985347985348,83.0
+GRV-2739,2026-01-07,,Ward-09,Public Property,Encroachment on footpath by shop owners,Open,Mobile App,High,38,,,2026,1,Jan 2026,2,Wednesday,2026-01-07,True,Road & Infrastructure,84.7985347985348,83.0
+GRV-1321,2026-01-08,,Ward-08,Road & Infrastructure,Road completely waterlogged after rain,Open,Phone Call,Critical,38,,,2026,1,Jan 2026,2,Thursday,2026-01-08,True,Water Supply,84.98168498168498,82.0
+GRV-1341,2026-01-09,,Ward-17,Sewage & Drainage,Foul smell from open drainage channel,Open,Website,High,69,,,2026,1,Jan 2026,2,Friday,2026-01-09,True,Sewage & Drainage,85.16483516483517,81.0
+GRV-2756,2026-01-10,,Ward-18,Water Supply,Low water pressure in pipes,Open,Phone Call,High,30,,,2026,1,Jan 2026,2,Saturday,2026-01-10,True,Water Supply,85.34798534798534,80.0
+GRV-1049,2026-01-14,,Ward-18,Public Property,Encroachment on footpath by shop owners,In Progress,Phone Call,Critical,49,,,2026,1,Jan 2026,3,Wednesday,2026-01-14,True,Road & Infrastructure,86.08058608058609,76.0
+GRV-1040,2026-01-24,,Ward-18,Noise & Pollution,Dust from road construction affecting residents,Open,Mobile App,Critical,36,,,2026,1,Jan 2026,4,Saturday,2026-01-24,True,Road & Infrastructure,87.91208791208791,66.0
+GRV-2405,2026-01-28,,Ward-14,Waste Management,No waste bins available in the area,In Progress,Website,Critical,68,,,2026,1,Jan 2026,5,Wednesday,2026-01-28,True,Waste Management,88.64468864468864,62.0
+GRV-1441,2026-01-28,,Ward-02,Road & Infrastructure,Road construction debris not cleared,In Progress,Walk-In,Critical,54,,,2026,1,Jan 2026,5,Wednesday,2026-01-28,True,Road & Infrastructure,88.64468864468864,62.0
+GRV-2943,2026-01-31,,Ward-09,Street Lighting,Broken street light reported multiple times,In Progress,Mobile App,Critical,58,,,2026,1,Jan 2026,5,Saturday,2026-01-31,True,Street Lighting,89.19413919413918,59.0
+GRV-1607,2026-02-02,,Ward-15,Public Property,Park benches broken and vandalised,Open,Website,Critical,59,,,2026,2,Feb 2026,6,Monday,2026-02-02,True,Public Property,89.56043956043956,57.0
+GRV-1773,2026-02-02,,Ward-19,Road & Infrastructure,Road completely waterlogged after rain,Open,Mobile App,High,66,,,2026,2,Feb 2026,6,Monday,2026-02-02,True,Water Supply,89.56043956043956,57.0
+GRV-1811,2026-02-03,,Ward-18,Street Lighting,Broken street light reported multiple times,In Progress,WhatsApp,High,38,,,2026,2,Feb 2026,6,Tuesday,2026-02-03,True,Street Lighting,89.74358974358975,56.0
+GRV-1507,2026-02-04,,Ward-06,Sewage & Drainage,Foul smell from open drainage channel,In Progress,Phone Call,Critical,52,,,2026,2,Feb 2026,6,Wednesday,2026-02-04,True,Sewage & Drainage,89.92673992673993,55.0
+GRV-1797,2026-02-06,,Ward-12,Waste Management,Garbage truck does not come on schedule,In Progress,Website,High,46,,,2026,2,Feb 2026,6,Friday,2026-02-06,True,Waste Management,90.29304029304029,53.0
+GRV-1585,2026-02-07,,Ward-16,Noise & Pollution,Burning of garbage creating air pollution,In Progress,Phone Call,Critical,46,,,2026,2,Feb 2026,6,Saturday,2026-02-07,True,Waste Management,90.47619047619048,52.0
+GRV-1162,2026-02-12,,Ward-14,Waste Management,Garbage not collected for a week,Open,Phone Call,Critical,48,,,2026,2,Feb 2026,7,Thursday,2026-02-12,True,Waste Management,91.39194139194139,47.0
+GRV-1835,2026-02-12,,Ward-07,Noise & Pollution,Burning of garbage creating air pollution,Open,Website,Critical,62,,,2026,2,Feb 2026,7,Thursday,2026-02-12,True,Waste Management,91.39194139194139,47.0
+GRV-2788,2026-02-13,,Ward-10,Street Lighting,Frequent power fluctuation in area,In Progress,Walk-In,Critical,70,,,2026,2,Feb 2026,7,Friday,2026-02-13,True,Street Lighting,91.57509157509158,46.0
+GRV-1399,2026-02-13,,Ward-04,Road & Infrastructure,Road completely waterlogged after rain,Open,Mobile App,High,47,,,2026,2,Feb 2026,7,Friday,2026-02-13,True,Water Supply,91.57509157509158,46.0
+GRV-1179,2026-02-13,,Ward-01,Road & Infrastructure,Speed breaker removed without notice,Open,Website,Critical,18,,,2026,2,Feb 2026,7,Friday,2026-02-13,True,Other,91.57509157509158,46.0
+GRV-2461,2026-02-14,,Ward-13,Street Lighting,Electric pole fallen on road – dangerous,In Progress,Phone Call,High,49,,,2026,2,Feb 2026,7,Saturday,2026-02-14,True,Road & Infrastructure,91.75824175824175,45.0
+GRV-1846,2026-02-14,,Ward-04,Waste Management,Garbage truck does not come on schedule,In Progress,Mobile App,Critical,23,,,2026,2,Feb 2026,7,Saturday,2026-02-14,True,Waste Management,91.75824175824175,45.0
+GRV-1135,2026-02-15,,Ward-20,Street Lighting,Broken street light reported multiple times,In Progress,Walk-In,High,57,,,2026,2,Feb 2026,7,Sunday,2026-02-15,True,Street Lighting,91.94139194139194,44.0
+GRV-2081,2026-02-18,,Ward-03,Water Supply,Low water pressure in pipes,In Progress,WhatsApp,High,18,,,2026,2,Feb 2026,8,Wednesday,2026-02-18,True,Water Supply,92.4908424908425,41.0
+GRV-1978,2026-02-20,,Ward-09,Street Lighting,Short circuit sparks from street light,Open,Walk-In,High,26,,,2026,2,Feb 2026,8,Friday,2026-02-20,True,Street Lighting,92.85714285714286,39.0
+GRV-1904,2026-02-21,,Ward-02,Street Lighting,Frequent power fluctuation in area,Open,WhatsApp,High,53,,,2026,2,Feb 2026,8,Saturday,2026-02-21,True,Street Lighting,93.04029304029304,38.0
+GRV-2013,2026-02-21,,Ward-19,Waste Management,Garbage truck does not come on schedule,Open,WhatsApp,Critical,19,,,2026,2,Feb 2026,8,Saturday,2026-02-21,True,Waste Management,93.04029304029304,38.0
+GRV-2632,2026-02-21,,Ward-01,Water Supply,No water supply for 3 days,Open,WhatsApp,High,29,,,2026,2,Feb 2026,8,Saturday,2026-02-21,True,Water Supply,93.04029304029304,38.0
+GRV-2191,2026-02-21,,Ward-04,Waste Management,Overflowing dustbin near bus stop,Open,Mobile App,Critical,22,,,2026,2,Feb 2026,8,Saturday,2026-02-21,True,Waste Management,93.04029304029304,38.0
+GRV-2980,2026-02-23,,Ward-04,Public Property,Stray dogs attacking residents near park,In Progress,Phone Call,Critical,61,,,2026,2,Feb 2026,9,Monday,2026-02-23,True,Public Property,93.4065934065934,36.0
+GRV-1661,2026-02-23,,Ward-02,Street Lighting,Short circuit sparks from street light,In Progress,WhatsApp,High,49,,,2026,2,Feb 2026,9,Monday,2026-02-23,True,Street Lighting,93.4065934065934,36.0
+GRV-2174,2026-02-24,,Ward-07,Sewage & Drainage,Sewage overflowing onto road,In Progress,Walk-In,Critical,66,,,2026,2,Feb 2026,9,Tuesday,2026-02-24,True,Road & Infrastructure,93.58974358974359,35.0
+GRV-2042,2026-02-26,,Ward-09,Sewage & Drainage,Foul smell from open drainage channel,In Progress,Walk-In,Critical,50,,,2026,2,Feb 2026,9,Thursday,2026-02-26,True,Sewage & Drainage,93.95604395604396,33.0
+GRV-1610,2026-02-26,,Ward-11,Water Supply,No water supply for 3 days,Open,Phone Call,Critical,40,,,2026,2,Feb 2026,9,Thursday,2026-02-26,True,Water Supply,93.95604395604396,33.0
+GRV-1911,2026-02-28,,Ward-15,Sewage & Drainage,Foul smell from open drainage channel,Open,Phone Call,High,38,,,2026,2,Feb 2026,9,Saturday,2026-02-28,True,Sewage & Drainage,94.32234432234432,31.0
+GRV-2734,2026-03-01,,Ward-13,Public Property,Public toilet locked / not accessible,Open,WhatsApp,High,47,,,2026,3,Mar 2026,9,Sunday,2026-03-01,True,Public Property,94.5054945054945,30.0
+GRV-2411,2026-03-01,,Ward-09,Road & Infrastructure,Broken footpath causing injury to pedestrians,Open,Unknown,Critical,36,,,2026,3,Mar 2026,9,Sunday,2026-03-01,True,Road & Infrastructure,94.5054945054945,30.0

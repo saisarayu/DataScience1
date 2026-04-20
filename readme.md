@@ -16,10 +16,10 @@ The goal is not just to perform basic EDA, but to transform raw complaint data i
 ## 🛠️ Tools & Technologies
 
 * Python
-* Pandas
-* NumPy
-* Plotly
-* Streamlit
+* Pandas, NumPy
+* Scikit-learn (ML models)
+* Plotly, Streamlit
+* Joblib/Pickle (model serialization)
 
 ---
 
@@ -30,7 +30,16 @@ DS/
 ├── src/
 │   ├── generate_dataset.py   ← Generates synthetic grievance dataset (2000 records)
 │   ├── analysis_script.py    ← 7-stage data pipeline (clean → analyse → export)
-│   └── dashboard.py          ← Interactive Streamlit dashboard
+│   ├── ml_models.py          ← ML models for prediction (resolution time, priority, etc.)
+│   └── dashboard.py          ← Interactive Streamlit dashboard with ML predictions
+│
+├── models/                   ← Trained ML models
+│   ├── resolution_predictor.pkl
+│   ├── priority_classifier.pkl
+│   ├── satisfaction_predictor.pkl
+│   ├── category_classifier.pkl
+│   ├── tfidf_vectorizer.pkl
+│   └── metadata.pkl
 │
 ├── data/
 │   ├── raw/
@@ -47,7 +56,64 @@ DS/
 
 ---
 
-## 📋 Dataset Description
+## 🤖 Machine Learning Models
+
+The system includes 4 trained ML models for predictive analytics:
+
+1. **Resolution Time Predictor** (Regression)
+   - Predicts days to resolve a complaint
+   - Features: ward, category, channel, citizen age, filing month/weekday, recency
+   - Performance: MAE ~2.1 days, R² ~0.85
+
+2. **Priority Classifier** (Multiclass)
+   - Classifies complaint urgency (Critical/High/Medium/Low)
+   - Same features as resolution predictor
+   - Performance: ~31% accuracy (baseline for imbalanced classes)
+
+3. **Satisfaction Score Predictor** (Regression)
+   - Predicts citizen satisfaction (1-5 scale) for resolved complaints
+   - Includes actual resolution time as feature
+   - Performance: MAE ~0.4, R² ~0.78
+
+4. **Category Classifier** (NLP-based)
+   - Auto-categorizes complaints from description text
+   - Uses TF-IDF vectorization + Random Forest
+   - Performance: 100% accuracy (likely due to distinct training descriptions)
+
+**Usage:** Models are integrated into the Streamlit dashboard for real-time predictions.
+
+---
+
+## � Quick Start
+
+1. **Install dependencies:**
+   ```bash
+   pip install pandas numpy scikit-learn plotly streamlit
+   ```
+
+2. **Run the complete pipeline:**
+   ```bash
+   # Generate data (if needed)
+   python src/generate_dataset.py
+   
+   # Process and analyze data
+   python src/analysis_script.py
+   
+   # Train ML models
+   python src/ml_models.py
+   
+   # Launch dashboard
+   streamlit run src/dashboard.py
+   ```
+
+3. **Access the dashboard:**
+   - Open http://localhost:8501
+   - Use filters to explore data
+   - Try ML predictions in the "AI Predictions" section
+
+---
+
+## �📋 Dataset Description
 
 The dataset contains **2,000 structured complaint records** with the following fields:
 

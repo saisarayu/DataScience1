@@ -12,6 +12,82 @@ import numpy as np
 import plotly.express as px
 import plotly.graph_objects as go
 from pathlib import Path
+import pickle
+import sys
+import os
+
+# Add src to path for imports
+sys.path.append(os.path.dirname(__file__))
+
+# ── Load ML Models ─────────────────────────────────────────
+MODEL_DIR = Path("models")
+try:
+    with open(MODEL_DIR / 'metadata.pkl', 'rb') as f:
+        metadata = pickle.load(f)
+    with open(MODEL_DIR / 'priority_classifier.pkl', 'rb') as f:
+        pri_model = pickle.load(f)
+    with open(MODEL_DIR / 'resolution_predictor.pkl', 'rb') as f:
+        res_model = pickle.load(f)
+    with open(MODEL_DIR / 'satisfaction_predictor.pkl', 'rb') as f:
+        sat_model = pickle.load(f)
+    with open(MODEL_DIR / 'category_classifier.pkl', 'rb') as f:
+        cat_model = pickle.load(f)
+    with open(MODEL_DIR / 'tfidf_vectorizer.pkl', 'rb') as f:
+        tfidf = pickle.load(f)
+    encoders = metadata['encoders']
+    models_loaded = True
+except:
+    models_loaded = False
+    st.warning("⚠️ ML models not found. Run `python src/ml_models.py` to train models first.")
+
+# ── ML Prediction Functions ────────────────────────────────
+def predict_priority(complaint_data):
+    """Predict priority level for a new complaint"""
+    if not models_loaded:
+        return "Model not loaded"
+    
+    input_data = pd.DataFrame([complaint_data])
+    input_data['ward_encoded'] = encoders['ward'].transform([input_data['ward'].iloc[0]])
+    input_data['category_encoded'] = encoders['category'].transform([input_data['category'].iloc[0]])
+    input_data['channel_encoded'] = encoders['channel'].transform([input_data['channel'].iloc[0]])
+    input_data['weekday_encoded'] = encoders['weekday'].transform([str(input_data['filed_weekday'].iloc[0])])
+
+    input_features = input_data[['ward_encoded', 'category_encoded', 'channel_encoded', 'weekday_encoded',
+                                'citizen_age', 'filed_month', 'recency_score']].fillna(
+        input_data[['ward_encoded', 'category_encoded', 'channel_encoded', 'weekday_encoded',
+                   'citizen_age', 'filed_month', 'recency_score']].mean()
+    )
+
+    pred_encoded = pri_model.predict(input_features)[0]
+    return encoders['priority'].inverse_transform([pred_encoded])[0]
+
+def predict_resolution_time(complaint_data):
+    """Predict resolution time for a new complaint"""
+    if not models_loaded or res_model is None:
+        return "Model not available"
+    
+    input_data = pd.DataFrame([complaint_data])
+    input_data['ward_encoded'] = encoders['ward'].transform([input_data['ward'].iloc[0]])
+    input_data['category_encoded'] = encoders['category'].transform([input_data['category'].iloc[0]])
+    input_data['channel_encoded'] = encoders['channel'].transform([input_data['channel'].iloc[0]])
+    input_data['weekday_encoded'] = encoders['weekday'].transform([str(input_data['filed_weekday'].iloc[0])])
+
+    input_features = input_data[['ward_encoded', 'category_encoded', 'channel_encoded', 'weekday_encoded',
+                                'citizen_age', 'filed_month', 'recency_score']].fillna(
+        input_data[['ward_encoded', 'category_encoded', 'channel_encoded', 'weekday_encoded',
+                   'citizen_age', 'filed_month', 'recency_score']].mean()
+    )
+
+    return f"{res_model.predict(input_features)[0]:.1f} days"
+
+def predict_category(description):
+    """Predict category from complaint description"""
+    if not models_loaded or cat_model is None or tfidf is None:
+        return "Model not available"
+
+    text_vec = tfidf.transform([description])
+    pred_encoded = cat_model.predict(text_vec)[0]
+    return encoders['category'].inverse_transform([pred_encoded])[0]
 
 # ── Page configuration ─────────────────────────────────────
 st.set_page_config(
@@ -294,6 +370,64 @@ with k5:
     </div>""", unsafe_allow_html=True)
 
 st.markdown("<br>", unsafe_allow_html=True)
+
+# ══════════════════════════════════════════════════════════
+# SECTION 2.5 — 🤖 ML PREDICTIONS
+# ══════════════════════════════════════════════════════════
+if models_loaded:
+    st.markdown('<div class="section-title">🤖 AI Predictions — What Will Happen Next?</div>', unsafe_allow_html=True)
+    
+    col_ml1, col_ml2 = st.columns(2)
+    
+    with col_ml1:
+        st.markdown("#### 📝 Predict Category from Description")
+        desc_input = st.text_area(
+            "Enter complaint description:",
+            "Water supply is not working in my area for 3 days",
+            height=100
+        )
+        if st.button("🔍 Predict Category"):
+            predicted_cat = predict_category(desc_input)
+            st.success(f"**Predicted Category:** {predicted_cat}")
+    
+    with col_ml2:
+        st.markdown("#### 🎯 Predict Complaint Priority")
+        with st.form("priority_form"):
+            ward_options = sorted(encoders['ward'].classes_)
+            cat_options = sorted(encoders['category'].classes_)
+            channel_options = sorted(encoders['channel'].classes_)
+            weekday_options = sorted(encoders['weekday'].classes_)
+            
+            col_p1, col_p2 = st.columns(2)
+            with col_p1:
+                ward_sel = st.selectbox("Ward", ward_options, index=0)
+                category_sel = st.selectbox("Category", cat_options, index=0)
+                age_sel = st.number_input("Citizen Age", min_value=18, max_value=100, value=35)
+            
+            with col_p2:
+                channel_sel = st.selectbox("Channel", channel_options, index=0)
+                weekday_sel = st.selectbox("Filed Weekday", weekday_options, index=2)  # Wednesday
+                month_sel = st.number_input("Filed Month", min_value=1, max_value=12, value=4)
+                recency_sel = st.number_input("Recency Score", min_value=0.0, max_value=100.0, value=50.0)
+            
+            submitted = st.form_submit_button("🔮 Predict Priority & Resolution Time")
+            
+            if submitted:
+                complaint_data = {
+                    'ward': ward_sel,
+                    'category': category_sel,
+                    'channel': channel_sel,
+                    'citizen_age': age_sel,
+                    'filed_month': month_sel,
+                    'filed_weekday': weekday_sel,
+                    'recency_score': recency_sel
+                }
+                
+                pred_priority = predict_priority(complaint_data)
+                pred_resolution = predict_resolution_time(complaint_data)
+                
+                st.success(f"**Predicted Priority:** {pred_priority}")
+                st.info(f"**Estimated Resolution Time:** {pred_resolution}")
 
 # ══════════════════════════════════════════════════════════
 # SECTION 3 — TOP 3 PROBLEMS + WORST WARD
